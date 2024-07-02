@@ -1,0 +1,11 @@
+accelerate
+evaluate
+matplotlib
+numpy
+datasets
+scikit-learn
+torch
+transformers
+spacy
+pandas
+notebook==6.5.2
