@@ -1,0 +1,100 @@
+,capability,label,template
+0,TempOrder,0,I took {drug} after experiencing {ade}.
+1,TempOrder,0,"After experiencing {ade}, I took {drug}."
+2,TempOrder,0,I experienced {ade} before taking {drug}.
+3,TempOrder,0,I experienced {ade} ahead of taking {drug}.
+4,TempOrder,0,"Before taking {drug}, I experienced {ade}."
+5,TempOrder,0,"Ahead of taking {drug}, I experienced {ade}."
+6,TempOrder,0,"When I started taking {drug}, I was already experiencing {ade}."
+7,TempOrder,0,"I was already experiencing {ade}, when I started taking {drug}."
+8,TempOrder,0,"I was experiencing {ade}, then I took {drug}."
+9,TempOrder,0,"I was experiencing {ade}, but it was not due to the {drug} because I had had {ade} before."
+10,TempOrder,0,Should I start taking {drug} when I'm already experiencing {ade}?
+11,TempOrder,0,"I'm unsure if I should start taking {drug}, when I'm already experiencing {ade}."
+12,TempOrder,0,"Prior to taking {drug}, I was experiencing {ade}."
+13,TempOrder,0,"I was experiencing {ade}, prior to taking {drug}."
+14,TempOrder,0,"I was experiencing {ade} for {time_entity}, now I started taking {drug}."
+15,TempOrder,0,"{time_entity} ago I started experiencing {ade}, now I started taking {drug}."
+16,TempOrder,0,"I was experiencing {ade} for {time_entity_l}, {time_entity_s} ago I started taking {drug}."
+17,TempOrder,0,"{time_entity_l} ago I started experiencing {ade}, I have been taking {drug} for {time_entity_s}."
+18,TempOrder,0,"{time_entity_l} ago I started experiencing {ade}, {time_entity_s} ago I started taking {drug}."
+19,Beneff,0,I'm taking {drug} and experiencing weight loss. I'm happy because I was trying to lose weight anyway.
+20,Beneff,0,I'm taking {drug} and experiencing weight gain. I'm happy because I was trying to gain weight anyway.
+21,Beneff,0,I'm taking {drug} and experiencing sleepiness. I'm happy because I had trouble sleeping at night before.
+22,Beneff,0,I'm taking {drug} and experiencing decreased need for sleep. I'm happy because I had trouble staying awake during the day before.
+23,Beneff,0,I'm taking {drug} and experiencing loss of appetite. I'm happy because I was overeating before.
+24,Beneff,0,I'm taking {drug} and experiencing increased appetite. I'm happy because I was suffering from loss of appetite before.
+25,Negation,0,I took {drug} and did not experience {ade}.
+26,Negation,0,I've never experienced {ade} when taking {drug}.
+27,Negation,0,"For me, {drug} didn't cause {ade}."
+28,Negation,0,No signs of {ade} when taking {drug}.
+29,Negation,0,I'm lucky I wasn't experiencing {ade} when taking {drug}.
+30,Negation,0,I am taking {drug} without experiencing {ade}.
+31,Negation,0,Taking {drug} didn't cause {ade} for me.
+32,Negation,0,Never experienced {ade} caused by {drug}.
+33,Negation,0,"Ever since I started taking {drug}, I've had no signs of {ade}."
+34,Negation,0,"For me, {ade} is not a side-effect of {drug}."
+35,Negation,0,"For me, {drug}-related {ade} has never been an issue."
+36,TempOrder,1,I took {drug} before experiencing {ade}.
+37,TempOrder,1,"After taking {drug}, I experienced {ade}."
+38,TempOrder,1,I took {drug} before I experienced {ade}.
+39,TempOrder,1,I took {drug} ahead of experiencing {ade}.
+40,TempOrder,1,"Before experiencing {ade}, I took {drug}."
+41,TempOrder,1,"Ahead of experiencing {ade}, I took {drug}."
+42,TempOrder,1,"When I started experiencing {ade}, I was already taking {drug}."
+43,TempOrder,1,"I was already taking {drug}, when I started experiencing {ade}."
+44,TempOrder,1,"I was taking {drug}, when I experienced {ade}."
+45,TempOrder,1,"I was experiencing {ade}, and I am sure it was due to the {drug} because I had never had {ade} before."
+46,TempOrder,1,Should I stop taking {drug} when I'm experiencing {ade}?
+47,TempOrder,1,"I'm unsure if I should stop taking {drug}, when I'm experiencing {ade}."
+48,TempOrder,1,"I was taking {drug} for {time_entity}, now I started experiencing {ade}."
+49,TempOrder,1,"{time_entity} ago I started taking {drug}, now I started experiencing {ade}."
+50,TempOrder,1,"I was experiencing {ade} for {time_entity_s}, {time_entity_l} ago I started taking {drug}."
+51,TempOrder,1,"{time_entity_l} ago I started taking {drug}, I have been experiencing {ade} for {time_entity_s}."
+52,TempOrder,1,"{time_entity_s} ago I started experiencing {ade}, {time_entity_l} ago I started taking {drug}."
+53,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, I am happy my symptoms have reduced."
+54,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, I feel much better in general than without {drug}."
+55,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, my quality of life has increased dramatically."
+56,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, I haven't felt this good in years."
+57,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, I am happier than before taking {drug}."
+58,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, it is okay because {ade} is not strong."
+59,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, it's okay because {ade} doesn't stop me from enjoying life."
+60,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, it's okay because I can ignore {ade}."
+61,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, I like {drug} because {ade} is less severe now compared to my previous medication."
+62,PosSent,1,"{drug} gives me {ade}. But, I am happy my symptoms have reduced."
+63,PosSent,1,"{drug} gives me {ade}. But, I feel much better in general than without {drug}."
+64,PosSent,1,"{drug} gives me {ade}. But, my quality of life has increased dramatically."
+65,PosSent,1,"{drug} gives me {ade}. But, I haven't felt this good in years."
+66,PosSent,1,"{drug} gives me {ade}. But, I am happier than before taking {drug}."
+67,PosSent,1,"{drug} gives me {ade}. But, it is okay because {ade} is not strong."
+68,PosSent,1,"{drug} gives me {ade}. But, it's okay because {ade} doesn't stop me from enjoying life."
+69,PosSent,1,"{drug} gives me {ade}. But, it's okay because I can ignore {ade}."
+70,PosSent,1,"{drug} gives me {ade}. But, I like {drug} because {ade} is less severe now compared to my previous medication."
+71,PosSent,1,"I always have {ade} when I'm on {drug}. But, I am happy my symptoms have reduced."
+72,PosSent,1,"I always have {ade} when I'm on {drug}. But, I feel much better in general than without {drug}."
+73,PosSent,1,"I always have {ade} when I'm on {drug}. But, my quality of life has increased dramatically."
+74,PosSent,1,"I always have {ade} when I'm on {drug}. But, I haven't felt this good in years."
+75,PosSent,1,"I always have {ade} when I'm on {drug}. But, I am happier than before taking {drug}."
+76,PosSent,1,"I always have {ade} when I'm on {drug}. But, it is okay because {ade} is not strong."
+77,PosSent,1,"I always have {ade} when I'm on {drug}. But, it's okay because {ade} doesn't stop me from enjoying life."
+78,PosSent,1,"I always have {ade} when I'm on {drug}. But, it's okay because I can ignore {ade}."
+79,PosSent,1,"I always have {ade} when I'm on {drug}. But, I like {drug} because {ade} is less severe now compared to my previous medication."
+80,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, I am happy my symptoms have reduced."
+81,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, I feel much better in general than without {drug}."
+82,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, my quality of life has increased dramatically."
+83,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, I haven't felt this good in years."
+84,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, I am happier than before taking {drug}."
+85,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, it is okay because {ade} is not strong."
+86,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, it's okay because {ade} doesn't stop me from enjoying life."
+87,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, it's okay because I can ignore {ade}."
+88,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, I like {drug} because {ade} is less severe now compared to my previous medication."
+89,Beneff,1,I'm taking {drug} and experiencing weight loss. It's a problem because I am already underweight.
+90,Beneff,1,I'm taking {drug} and experiencing weight gain. It's a problem because I am already overweight.
+91,Beneff,1,I'm taking {drug} and experiencing sleepiness. It's a problem because I have trouble staying awake during the day anyway.
+92,Beneff,1,I'm taking {drug} and experiencing decreased need for sleep. It's a problem because I have trouble sleeping at night anyway.
+93,Beneff,1,I'm taking {drug} and experiencing loss of appetite. It's a problem because I was suffering from loss of appetite before.
+94,Beneff,1,I'm taking {drug} and experiencing increased appetite. It's a problem because I was overeating before.
+95,Negation,1,"That's not true, I took {drug} and experienced {ade}."
+96,Negation,1,I have never not experienced {ade} when I'm on {drug}.
+97,Negation,1,"I don't like {drug}, it gives me {ade}."
+98,Negation,1,"I don't like my doctor who gave me {drug}, now I'm experiencing {ade}."

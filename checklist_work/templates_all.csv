@@ -1,0 +1,1506 @@
+,capability,label,template
+0,TempOrder,0,I started taking {drug} after encountering {ade}.
+1,TempOrder,0,I started taking {drug} after enduring {ade}.
+2,TempOrder,0,I started taking {drug} after experiencing {ade}.
+3,TempOrder,0,I started taking {drug} after having {ade}.
+4,TempOrder,0,I started taking {drug} after living through {ade}.
+5,TempOrder,0,I started taking {drug} after suffering from {ade}.
+6,TempOrder,0,I took {drug} after encountering {ade}.
+7,TempOrder,0,I took {drug} after enduring {ade}.
+8,TempOrder,0,I took {drug} after experiencing {ade}.
+9,TempOrder,0,I took {drug} after having {ade}.
+10,TempOrder,0,I took {drug} after living through {ade}.
+11,TempOrder,0,I took {drug} after suffering from {ade}.
+12,TempOrder,0,I was medicated with {drug} after encountering {ade}.
+13,TempOrder,0,I was medicated with {drug} after enduring {ade}.
+14,TempOrder,0,I was medicated with {drug} after experiencing {ade}.
+15,TempOrder,0,I was medicated with {drug} after having {ade}.
+16,TempOrder,0,I was medicated with {drug} after living through {ade}.
+17,TempOrder,0,I was medicated with {drug} after suffering from {ade}.
+18,TempOrder,0,I was on {drug} after encountering {ade}.
+19,TempOrder,0,I was on {drug} after enduring {ade}.
+20,TempOrder,0,I was on {drug} after experiencing {ade}.
+21,TempOrder,0,I was on {drug} after having {ade}.
+22,TempOrder,0,I was on {drug} after living through {ade}.
+23,TempOrder,0,I was on {drug} after suffering from {ade}.
+24,TempOrder,0,I was put on {drug} after encountering {ade}.
+25,TempOrder,0,I was put on {drug} after enduring {ade}.
+26,TempOrder,0,I was put on {drug} after experiencing {ade}.
+27,TempOrder,0,I was put on {drug} after having {ade}.
+28,TempOrder,0,I was put on {drug} after living through {ade}.
+29,TempOrder,0,I was put on {drug} after suffering from {ade}.
+30,TempOrder,0,I was treated with {drug} after encountering {ade}.
+31,TempOrder,0,I was treated with {drug} after enduring {ade}.
+32,TempOrder,0,I was treated with {drug} after experiencing {ade}.
+33,TempOrder,0,I was treated with {drug} after having {ade}.
+34,TempOrder,0,I was treated with {drug} after living through {ade}.
+35,TempOrder,0,I was treated with {drug} after suffering from {ade}.
+36,TempOrder,0,"After encountering {ade}, I started taking {drug}."
+37,TempOrder,0,"After encountering {ade}, I took {drug}."
+38,TempOrder,0,"After encountering {ade}, I was medicated with {drug}."
+39,TempOrder,0,"After encountering {ade}, I was on {drug}."
+40,TempOrder,0,"After encountering {ade}, I was put on {drug}."
+41,TempOrder,0,"After encountering {ade}, I was treated with {drug}."
+42,TempOrder,0,"After enduring {ade}, I started taking {drug}."
+43,TempOrder,0,"After enduring {ade}, I took {drug}."
+44,TempOrder,0,"After enduring {ade}, I was medicated with {drug}."
+45,TempOrder,0,"After enduring {ade}, I was on {drug}."
+46,TempOrder,0,"After enduring {ade}, I was put on {drug}."
+47,TempOrder,0,"After enduring {ade}, I was treated with {drug}."
+48,TempOrder,0,"After experiencing {ade}, I started taking {drug}."
+49,TempOrder,0,"After experiencing {ade}, I took {drug}."
+50,TempOrder,0,"After experiencing {ade}, I was medicated with {drug}."
+51,TempOrder,0,"After experiencing {ade}, I was on {drug}."
+52,TempOrder,0,"After experiencing {ade}, I was put on {drug}."
+53,TempOrder,0,"After experiencing {ade}, I was treated with {drug}."
+54,TempOrder,0,"After having {ade}, I started taking {drug}."
+55,TempOrder,0,"After having {ade}, I took {drug}."
+56,TempOrder,0,"After having {ade}, I was medicated with {drug}."
+57,TempOrder,0,"After having {ade}, I was on {drug}."
+58,TempOrder,0,"After having {ade}, I was put on {drug}."
+59,TempOrder,0,"After having {ade}, I was treated with {drug}."
+60,TempOrder,0,"After living through {ade}, I started taking {drug}."
+61,TempOrder,0,"After living through {ade}, I took {drug}."
+62,TempOrder,0,"After living through {ade}, I was medicated with {drug}."
+63,TempOrder,0,"After living through {ade}, I was on {drug}."
+64,TempOrder,0,"After living through {ade}, I was put on {drug}."
+65,TempOrder,0,"After living through {ade}, I was treated with {drug}."
+66,TempOrder,0,"After suffering from {ade}, I started taking {drug}."
+67,TempOrder,0,"After suffering from {ade}, I took {drug}."
+68,TempOrder,0,"After suffering from {ade}, I was medicated with {drug}."
+69,TempOrder,0,"After suffering from {ade}, I was on {drug}."
+70,TempOrder,0,"After suffering from {ade}, I was put on {drug}."
+71,TempOrder,0,"After suffering from {ade}, I was treated with {drug}."
+72,TempOrder,0,I encountered {ade} before I started taking {drug}.
+73,TempOrder,0,I encountered {ade} before I was medicated with {drug}.
+74,TempOrder,0,I encountered {ade} before I was put on {drug}.
+75,TempOrder,0,I encountered {ade} before I was treated with {drug}.
+76,TempOrder,0,I encountered {ade} before taking {drug}.
+77,TempOrder,0,I endured {ade} before I started taking {drug}.
+78,TempOrder,0,I endured {ade} before I was medicated with {drug}.
+79,TempOrder,0,I endured {ade} before I was put on {drug}.
+80,TempOrder,0,I endured {ade} before I was treated with {drug}.
+81,TempOrder,0,I endured {ade} before taking {drug}.
+82,TempOrder,0,I experienced {ade} before I started taking {drug}.
+83,TempOrder,0,I experienced {ade} before I was medicated with {drug}.
+84,TempOrder,0,I experienced {ade} before I was put on {drug}.
+85,TempOrder,0,I experienced {ade} before I was treated with {drug}.
+86,TempOrder,0,I experienced {ade} before taking {drug}.
+87,TempOrder,0,I had {ade} before I started taking {drug}.
+88,TempOrder,0,I had {ade} before I was medicated with {drug}.
+89,TempOrder,0,I had {ade} before I was put on {drug}.
+90,TempOrder,0,I had {ade} before I was treated with {drug}.
+91,TempOrder,0,I had {ade} before taking {drug}.
+92,TempOrder,0,I lived through {ade} before I started taking {drug}.
+93,TempOrder,0,I lived through {ade} before I was medicated with {drug}.
+94,TempOrder,0,I lived through {ade} before I was put on {drug}.
+95,TempOrder,0,I lived through {ade} before I was treated with {drug}.
+96,TempOrder,0,I lived through {ade} before taking {drug}.
+97,TempOrder,0,I suffered from {ade} before I started taking {drug}.
+98,TempOrder,0,I suffered from {ade} before I was medicated with {drug}.
+99,TempOrder,0,I suffered from {ade} before I was put on {drug}.
+100,TempOrder,0,I suffered from {ade} before I was treated with {drug}.
+101,TempOrder,0,I suffered from {ade} before taking {drug}.
+102,TempOrder,0,I encountered {ade} ahead of taking {drug}.
+103,TempOrder,0,I endured {ade} ahead of taking {drug}.
+104,TempOrder,0,I experienced {ade} ahead of taking {drug}.
+105,TempOrder,0,I had {ade} ahead of taking {drug}.
+106,TempOrder,0,I lived through {ade} ahead of taking {drug}.
+107,TempOrder,0,I suffered from {ade} ahead of taking {drug}.
+108,TempOrder,0,"Before I started taking {drug}, I encountered {ade}."
+109,TempOrder,0,"Before I started taking {drug}, I endured {ade}."
+110,TempOrder,0,"Before I started taking {drug}, I experienced {ade}."
+111,TempOrder,0,"Before I started taking {drug}, I had {ade}."
+112,TempOrder,0,"Before I started taking {drug}, I lived through {ade}."
+113,TempOrder,0,"Before I started taking {drug}, I suffered from {ade}."
+114,TempOrder,0,"Before I was medicated with {drug}, I encountered {ade}."
+115,TempOrder,0,"Before I was medicated with {drug}, I endured {ade}."
+116,TempOrder,0,"Before I was medicated with {drug}, I experienced {ade}."
+117,TempOrder,0,"Before I was medicated with {drug}, I had {ade}."
+118,TempOrder,0,"Before I was medicated with {drug}, I lived through {ade}."
+119,TempOrder,0,"Before I was medicated with {drug}, I suffered from {ade}."
+120,TempOrder,0,"Before I was put on {drug}, I encountered {ade}."
+121,TempOrder,0,"Before I was put on {drug}, I endured {ade}."
+122,TempOrder,0,"Before I was put on {drug}, I experienced {ade}."
+123,TempOrder,0,"Before I was put on {drug}, I had {ade}."
+124,TempOrder,0,"Before I was put on {drug}, I lived through {ade}."
+125,TempOrder,0,"Before I was put on {drug}, I suffered from {ade}."
+126,TempOrder,0,"Before I was treated with {drug}, I encountered {ade}."
+127,TempOrder,0,"Before I was treated with {drug}, I endured {ade}."
+128,TempOrder,0,"Before I was treated with {drug}, I experienced {ade}."
+129,TempOrder,0,"Before I was treated with {drug}, I had {ade}."
+130,TempOrder,0,"Before I was treated with {drug}, I lived through {ade}."
+131,TempOrder,0,"Before I was treated with {drug}, I suffered from {ade}."
+132,TempOrder,0,"Before taking {drug}, I encountered {ade}."
+133,TempOrder,0,"Before taking {drug}, I endured {ade}."
+134,TempOrder,0,"Before taking {drug}, I experienced {ade}."
+135,TempOrder,0,"Before taking {drug}, I had {ade}."
+136,TempOrder,0,"Before taking {drug}, I lived through {ade}."
+137,TempOrder,0,"Before taking {drug}, I suffered from {ade}."
+138,TempOrder,0,"Ahead of taking {drug}, I encountered {ade}."
+139,TempOrder,0,"Ahead of taking {drug}, I endured {ade}."
+140,TempOrder,0,"Ahead of taking {drug}, I experienced {ade}."
+141,TempOrder,0,"Ahead of taking {drug}, I had {ade}."
+142,TempOrder,0,"Ahead of taking {drug}, I lived through {ade}."
+143,TempOrder,0,"Ahead of taking {drug}, I suffered from {ade}."
+144,TempOrder,0,"When I started being medicated with {drug}, I was already encountering {ade}."
+145,TempOrder,0,"When I started being medicated with {drug}, I was already enduring {ade}."
+146,TempOrder,0,"When I started being medicated with {drug}, I was already experiencing {ade}."
+147,TempOrder,0,"When I started being medicated with {drug}, I was already having {ade}."
+148,TempOrder,0,"When I started being medicated with {drug}, I was already living through {ade}."
+149,TempOrder,0,"When I started being medicated with {drug}, I was already suffering from {ade}."
+150,TempOrder,0,"When I started being on {drug}, I was already encountering {ade}."
+151,TempOrder,0,"When I started being on {drug}, I was already enduring {ade}."
+152,TempOrder,0,"When I started being on {drug}, I was already experiencing {ade}."
+153,TempOrder,0,"When I started being on {drug}, I was already having {ade}."
+154,TempOrder,0,"When I started being on {drug}, I was already living through {ade}."
+155,TempOrder,0,"When I started being on {drug}, I was already suffering from {ade}."
+156,TempOrder,0,"When I started being treated with {drug}, I was already encountering {ade}."
+157,TempOrder,0,"When I started being treated with {drug}, I was already enduring {ade}."
+158,TempOrder,0,"When I started being treated with {drug}, I was already experiencing {ade}."
+159,TempOrder,0,"When I started being treated with {drug}, I was already having {ade}."
+160,TempOrder,0,"When I started being treated with {drug}, I was already living through {ade}."
+161,TempOrder,0,"When I started being treated with {drug}, I was already suffering from {ade}."
+162,TempOrder,0,"When I started taking {drug}, I was already encountering {ade}."
+163,TempOrder,0,"When I started taking {drug}, I was already enduring {ade}."
+164,TempOrder,0,"When I started taking {drug}, I was already experiencing {ade}."
+165,TempOrder,0,"When I started taking {drug}, I was already having {ade}."
+166,TempOrder,0,"When I started taking {drug}, I was already living through {ade}."
+167,TempOrder,0,"When I started taking {drug}, I was already suffering from {ade}."
+168,TempOrder,0,"I was already encountering {ade}, when I started being medicated with {drug}."
+169,TempOrder,0,"I was already encountering {ade}, when I started being on {drug}."
+170,TempOrder,0,"I was already encountering {ade}, when I started being treated with {drug}."
+171,TempOrder,0,"I was already encountering {ade}, when I started taking {drug}."
+172,TempOrder,0,"I was already enduring {ade}, when I started being medicated with {drug}."
+173,TempOrder,0,"I was already enduring {ade}, when I started being on {drug}."
+174,TempOrder,0,"I was already enduring {ade}, when I started being treated with {drug}."
+175,TempOrder,0,"I was already enduring {ade}, when I started taking {drug}."
+176,TempOrder,0,"I was already experiencing {ade}, when I started being medicated with {drug}."
+177,TempOrder,0,"I was already experiencing {ade}, when I started being on {drug}."
+178,TempOrder,0,"I was already experiencing {ade}, when I started being treated with {drug}."
+179,TempOrder,0,"I was already experiencing {ade}, when I started taking {drug}."
+180,TempOrder,0,"I was already having {ade}, when I started being medicated with {drug}."
+181,TempOrder,0,"I was already having {ade}, when I started being on {drug}."
+182,TempOrder,0,"I was already having {ade}, when I started being treated with {drug}."
+183,TempOrder,0,"I was already having {ade}, when I started taking {drug}."
+184,TempOrder,0,"I was already living through {ade}, when I started being medicated with {drug}."
+185,TempOrder,0,"I was already living through {ade}, when I started being on {drug}."
+186,TempOrder,0,"I was already living through {ade}, when I started being treated with {drug}."
+187,TempOrder,0,"I was already living through {ade}, when I started taking {drug}."
+188,TempOrder,0,"I was already suffering from {ade}, when I started being medicated with {drug}."
+189,TempOrder,0,"I was already suffering from {ade}, when I started being on {drug}."
+190,TempOrder,0,"I was already suffering from {ade}, when I started being treated with {drug}."
+191,TempOrder,0,"I was already suffering from {ade}, when I started taking {drug}."
+192,TempOrder,0,"I was encountering {ade}, then I started taking {drug}."
+193,TempOrder,0,"I was encountering {ade}, then I took {drug}."
+194,TempOrder,0,"I was encountering {ade}, then I was medicated with {drug}."
+195,TempOrder,0,"I was encountering {ade}, then I was on {drug}."
+196,TempOrder,0,"I was encountering {ade}, then I was put on {drug}."
+197,TempOrder,0,"I was encountering {ade}, then I was treated with {drug}."
+198,TempOrder,0,"I was enduring {ade}, then I started taking {drug}."
+199,TempOrder,0,"I was enduring {ade}, then I took {drug}."
+200,TempOrder,0,"I was enduring {ade}, then I was medicated with {drug}."
+201,TempOrder,0,"I was enduring {ade}, then I was on {drug}."
+202,TempOrder,0,"I was enduring {ade}, then I was put on {drug}."
+203,TempOrder,0,"I was enduring {ade}, then I was treated with {drug}."
+204,TempOrder,0,"I was experiencing {ade}, then I started taking {drug}."
+205,TempOrder,0,"I was experiencing {ade}, then I took {drug}."
+206,TempOrder,0,"I was experiencing {ade}, then I was medicated with {drug}."
+207,TempOrder,0,"I was experiencing {ade}, then I was on {drug}."
+208,TempOrder,0,"I was experiencing {ade}, then I was put on {drug}."
+209,TempOrder,0,"I was experiencing {ade}, then I was treated with {drug}."
+210,TempOrder,0,"I was having {ade}, then I started taking {drug}."
+211,TempOrder,0,"I was having {ade}, then I took {drug}."
+212,TempOrder,0,"I was having {ade}, then I was medicated with {drug}."
+213,TempOrder,0,"I was having {ade}, then I was on {drug}."
+214,TempOrder,0,"I was having {ade}, then I was put on {drug}."
+215,TempOrder,0,"I was having {ade}, then I was treated with {drug}."
+216,TempOrder,0,"I was living through {ade}, then I started taking {drug}."
+217,TempOrder,0,"I was living through {ade}, then I took {drug}."
+218,TempOrder,0,"I was living through {ade}, then I was medicated with {drug}."
+219,TempOrder,0,"I was living through {ade}, then I was on {drug}."
+220,TempOrder,0,"I was living through {ade}, then I was put on {drug}."
+221,TempOrder,0,"I was living through {ade}, then I was treated with {drug}."
+222,TempOrder,0,"I was suffering from {ade}, then I started taking {drug}."
+223,TempOrder,0,"I was suffering from {ade}, then I took {drug}."
+224,TempOrder,0,"I was suffering from {ade}, then I was medicated with {drug}."
+225,TempOrder,0,"I was suffering from {ade}, then I was on {drug}."
+226,TempOrder,0,"I was suffering from {ade}, then I was put on {drug}."
+227,TempOrder,0,"I was suffering from {ade}, then I was treated with {drug}."
+228,TempOrder,0,"I was encountering {ade}, but it was not due to the {drug} because I had had {ade} before."
+229,TempOrder,0,"I was enduring {ade}, but it was not due to the {drug} because I had had {ade} before."
+230,TempOrder,0,"I was experiencing {ade}, but it was not due to the {drug} because I had had {ade} before."
+231,TempOrder,0,"I was having {ade}, but it was not due to the {drug} because I had had {ade} before."
+232,TempOrder,0,"I was living through {ade}, but it was not due to the {drug} because I had had {ade} before."
+233,TempOrder,0,"I was suffering from {ade}, but it was not due to the {drug} because I had had {ade} before."
+234,TempOrder,0,Should I start taking {drug} when I'm already encountering {ade}?
+235,TempOrder,0,Should I start taking {drug} when I'm already enduring {ade}?
+236,TempOrder,0,Should I start taking {drug} when I'm already experiencing {ade}?
+237,TempOrder,0,Should I start taking {drug} when I'm already having {ade}?
+238,TempOrder,0,Should I start taking {drug} when I'm already living through {ade}?
+239,TempOrder,0,Should I start taking {drug} when I'm already suffering from {ade}?
+240,TempOrder,0,"I'm unsure if I should start taking {drug}, when I'm already encountering {ade}."
+241,TempOrder,0,"I'm unsure if I should start taking {drug}, when I'm already enduring {ade}."
+242,TempOrder,0,"I'm unsure if I should start taking {drug}, when I'm already experiencing {ade}."
+243,TempOrder,0,"I'm unsure if I should start taking {drug}, when I'm already having {ade}."
+244,TempOrder,0,"I'm unsure if I should start taking {drug}, when I'm already living through {ade}."
+245,TempOrder,0,"I'm unsure if I should start taking {drug}, when I'm already suffering from {ade}."
+246,TempOrder,0,"Prior to being medicated with {drug}, I was encountering {ade}."
+247,TempOrder,0,"Prior to being medicated with {drug}, I was enduring {ade}."
+248,TempOrder,0,"Prior to being medicated with {drug}, I was experiencing {ade}."
+249,TempOrder,0,"Prior to being medicated with {drug}, I was having {ade}."
+250,TempOrder,0,"Prior to being medicated with {drug}, I was living through {ade}."
+251,TempOrder,0,"Prior to being medicated with {drug}, I was suffering from {ade}."
+252,TempOrder,0,"Prior to being on {drug}, I was encountering {ade}."
+253,TempOrder,0,"Prior to being on {drug}, I was enduring {ade}."
+254,TempOrder,0,"Prior to being on {drug}, I was experiencing {ade}."
+255,TempOrder,0,"Prior to being on {drug}, I was having {ade}."
+256,TempOrder,0,"Prior to being on {drug}, I was living through {ade}."
+257,TempOrder,0,"Prior to being on {drug}, I was suffering from {ade}."
+258,TempOrder,0,"Prior to being treated with {drug}, I was encountering {ade}."
+259,TempOrder,0,"Prior to being treated with {drug}, I was enduring {ade}."
+260,TempOrder,0,"Prior to being treated with {drug}, I was experiencing {ade}."
+261,TempOrder,0,"Prior to being treated with {drug}, I was having {ade}."
+262,TempOrder,0,"Prior to being treated with {drug}, I was living through {ade}."
+263,TempOrder,0,"Prior to being treated with {drug}, I was suffering from {ade}."
+264,TempOrder,0,"Prior to taking {drug}, I was encountering {ade}."
+265,TempOrder,0,"Prior to taking {drug}, I was enduring {ade}."
+266,TempOrder,0,"Prior to taking {drug}, I was experiencing {ade}."
+267,TempOrder,0,"Prior to taking {drug}, I was having {ade}."
+268,TempOrder,0,"Prior to taking {drug}, I was living through {ade}."
+269,TempOrder,0,"Prior to taking {drug}, I was suffering from {ade}."
+270,TempOrder,0,"I was encountering {ade}, prior to being medicated with {drug}."
+271,TempOrder,0,"I was encountering {ade}, prior to being on {drug}."
+272,TempOrder,0,"I was encountering {ade}, prior to being treated with {drug}."
+273,TempOrder,0,"I was encountering {ade}, prior to taking {drug}."
+274,TempOrder,0,"I was enduring {ade}, prior to being medicated with {drug}."
+275,TempOrder,0,"I was enduring {ade}, prior to being on {drug}."
+276,TempOrder,0,"I was enduring {ade}, prior to being treated with {drug}."
+277,TempOrder,0,"I was enduring {ade}, prior to taking {drug}."
+278,TempOrder,0,"I was experiencing {ade}, prior to being medicated with {drug}."
+279,TempOrder,0,"I was experiencing {ade}, prior to being on {drug}."
+280,TempOrder,0,"I was experiencing {ade}, prior to being treated with {drug}."
+281,TempOrder,0,"I was experiencing {ade}, prior to taking {drug}."
+282,TempOrder,0,"I was having {ade}, prior to being medicated with {drug}."
+283,TempOrder,0,"I was having {ade}, prior to being on {drug}."
+284,TempOrder,0,"I was having {ade}, prior to being treated with {drug}."
+285,TempOrder,0,"I was having {ade}, prior to taking {drug}."
+286,TempOrder,0,"I was living through {ade}, prior to being medicated with {drug}."
+287,TempOrder,0,"I was living through {ade}, prior to being on {drug}."
+288,TempOrder,0,"I was living through {ade}, prior to being treated with {drug}."
+289,TempOrder,0,"I was living through {ade}, prior to taking {drug}."
+290,TempOrder,0,"I was suffering from {ade}, prior to being medicated with {drug}."
+291,TempOrder,0,"I was suffering from {ade}, prior to being on {drug}."
+292,TempOrder,0,"I was suffering from {ade}, prior to being treated with {drug}."
+293,TempOrder,0,"I was suffering from {ade}, prior to taking {drug}."
+294,TempOrder,0,"I was encountering {ade} for {time_entity}, now I started being medicated with {drug}."
+295,TempOrder,0,"I was encountering {ade} for {time_entity}, now I started being on {drug}."
+296,TempOrder,0,"I was encountering {ade} for {time_entity}, now I started being treated with {drug}."
+297,TempOrder,0,"I was encountering {ade} for {time_entity}, now I started taking {drug}."
+298,TempOrder,0,"I was enduring {ade} for {time_entity}, now I started being medicated with {drug}."
+299,TempOrder,0,"I was enduring {ade} for {time_entity}, now I started being on {drug}."
+300,TempOrder,0,"I was enduring {ade} for {time_entity}, now I started being treated with {drug}."
+301,TempOrder,0,"I was enduring {ade} for {time_entity}, now I started taking {drug}."
+302,TempOrder,0,"I was experiencing {ade} for {time_entity}, now I started being medicated with {drug}."
+303,TempOrder,0,"I was experiencing {ade} for {time_entity}, now I started being on {drug}."
+304,TempOrder,0,"I was experiencing {ade} for {time_entity}, now I started being treated with {drug}."
+305,TempOrder,0,"I was experiencing {ade} for {time_entity}, now I started taking {drug}."
+306,TempOrder,0,"I was having {ade} for {time_entity}, now I started being medicated with {drug}."
+307,TempOrder,0,"I was having {ade} for {time_entity}, now I started being on {drug}."
+308,TempOrder,0,"I was having {ade} for {time_entity}, now I started being treated with {drug}."
+309,TempOrder,0,"I was having {ade} for {time_entity}, now I started taking {drug}."
+310,TempOrder,0,"I was living through {ade} for {time_entity}, now I started being medicated with {drug}."
+311,TempOrder,0,"I was living through {ade} for {time_entity}, now I started being on {drug}."
+312,TempOrder,0,"I was living through {ade} for {time_entity}, now I started being treated with {drug}."
+313,TempOrder,0,"I was living through {ade} for {time_entity}, now I started taking {drug}."
+314,TempOrder,0,"I was suffering from {ade} for {time_entity}, now I started being medicated with {drug}."
+315,TempOrder,0,"I was suffering from {ade} for {time_entity}, now I started being on {drug}."
+316,TempOrder,0,"I was suffering from {ade} for {time_entity}, now I started being treated with {drug}."
+317,TempOrder,0,"I was suffering from {ade} for {time_entity}, now I started taking {drug}."
+318,TempOrder,0,"{time_entity} ago I started encountering {ade}, now I started being medicated with {drug}."
+319,TempOrder,0,"{time_entity} ago I started encountering {ade}, now I started being on {drug}."
+320,TempOrder,0,"{time_entity} ago I started encountering {ade}, now I started being treated with {drug}."
+321,TempOrder,0,"{time_entity} ago I started encountering {ade}, now I started taking {drug}."
+322,TempOrder,0,"{time_entity} ago I started enduring {ade}, now I started being medicated with {drug}."
+323,TempOrder,0,"{time_entity} ago I started enduring {ade}, now I started being on {drug}."
+324,TempOrder,0,"{time_entity} ago I started enduring {ade}, now I started being treated with {drug}."
+325,TempOrder,0,"{time_entity} ago I started enduring {ade}, now I started taking {drug}."
+326,TempOrder,0,"{time_entity} ago I started experiencing {ade}, now I started being medicated with {drug}."
+327,TempOrder,0,"{time_entity} ago I started experiencing {ade}, now I started being on {drug}."
+328,TempOrder,0,"{time_entity} ago I started experiencing {ade}, now I started being treated with {drug}."
+329,TempOrder,0,"{time_entity} ago I started experiencing {ade}, now I started taking {drug}."
+330,TempOrder,0,"{time_entity} ago I started having {ade}, now I started being medicated with {drug}."
+331,TempOrder,0,"{time_entity} ago I started having {ade}, now I started being on {drug}."
+332,TempOrder,0,"{time_entity} ago I started having {ade}, now I started being treated with {drug}."
+333,TempOrder,0,"{time_entity} ago I started having {ade}, now I started taking {drug}."
+334,TempOrder,0,"{time_entity} ago I started living through {ade}, now I started being medicated with {drug}."
+335,TempOrder,0,"{time_entity} ago I started living through {ade}, now I started being on {drug}."
+336,TempOrder,0,"{time_entity} ago I started living through {ade}, now I started being treated with {drug}."
+337,TempOrder,0,"{time_entity} ago I started living through {ade}, now I started taking {drug}."
+338,TempOrder,0,"{time_entity} ago I started suffering from {ade}, now I started being medicated with {drug}."
+339,TempOrder,0,"{time_entity} ago I started suffering from {ade}, now I started being on {drug}."
+340,TempOrder,0,"{time_entity} ago I started suffering from {ade}, now I started being treated with {drug}."
+341,TempOrder,0,"{time_entity} ago I started suffering from {ade}, now I started taking {drug}."
+342,TempOrder,0,"I was encountering {ade} for {time_entity_l}, {time_entity_s} ago I started being medicated with {drug}."
+343,TempOrder,0,"I was encountering {ade} for {time_entity_l}, {time_entity_s} ago I started being on {drug}."
+344,TempOrder,0,"I was encountering {ade} for {time_entity_l}, {time_entity_s} ago I started being treated with {drug}."
+345,TempOrder,0,"I was encountering {ade} for {time_entity_l}, {time_entity_s} ago I started taking {drug}."
+346,TempOrder,0,"I was enduring {ade} for {time_entity_l}, {time_entity_s} ago I started being medicated with {drug}."
+347,TempOrder,0,"I was enduring {ade} for {time_entity_l}, {time_entity_s} ago I started being on {drug}."
+348,TempOrder,0,"I was enduring {ade} for {time_entity_l}, {time_entity_s} ago I started being treated with {drug}."
+349,TempOrder,0,"I was enduring {ade} for {time_entity_l}, {time_entity_s} ago I started taking {drug}."
+350,TempOrder,0,"I was experiencing {ade} for {time_entity_l}, {time_entity_s} ago I started being medicated with {drug}."
+351,TempOrder,0,"I was experiencing {ade} for {time_entity_l}, {time_entity_s} ago I started being on {drug}."
+352,TempOrder,0,"I was experiencing {ade} for {time_entity_l}, {time_entity_s} ago I started being treated with {drug}."
+353,TempOrder,0,"I was experiencing {ade} for {time_entity_l}, {time_entity_s} ago I started taking {drug}."
+354,TempOrder,0,"I was having {ade} for {time_entity_l}, {time_entity_s} ago I started being medicated with {drug}."
+355,TempOrder,0,"I was having {ade} for {time_entity_l}, {time_entity_s} ago I started being on {drug}."
+356,TempOrder,0,"I was having {ade} for {time_entity_l}, {time_entity_s} ago I started being treated with {drug}."
+357,TempOrder,0,"I was having {ade} for {time_entity_l}, {time_entity_s} ago I started taking {drug}."
+358,TempOrder,0,"I was living through {ade} for {time_entity_l}, {time_entity_s} ago I started being medicated with {drug}."
+359,TempOrder,0,"I was living through {ade} for {time_entity_l}, {time_entity_s} ago I started being on {drug}."
+360,TempOrder,0,"I was living through {ade} for {time_entity_l}, {time_entity_s} ago I started being treated with {drug}."
+361,TempOrder,0,"I was living through {ade} for {time_entity_l}, {time_entity_s} ago I started taking {drug}."
+362,TempOrder,0,"I was suffering from {ade} for {time_entity_l}, {time_entity_s} ago I started being medicated with {drug}."
+363,TempOrder,0,"I was suffering from {ade} for {time_entity_l}, {time_entity_s} ago I started being on {drug}."
+364,TempOrder,0,"I was suffering from {ade} for {time_entity_l}, {time_entity_s} ago I started being treated with {drug}."
+365,TempOrder,0,"I was suffering from {ade} for {time_entity_l}, {time_entity_s} ago I started taking {drug}."
+366,TempOrder,0,"{time_entity_l} ago I started encountering {ade}, I have been taking {drug} for {time_entity_s}."
+367,TempOrder,0,"{time_entity_l} ago I started enduring {ade}, I have been taking {drug} for {time_entity_s}."
+368,TempOrder,0,"{time_entity_l} ago I started experiencing {ade}, I have been taking {drug} for {time_entity_s}."
+369,TempOrder,0,"{time_entity_l} ago I started having {ade}, I have been taking {drug} for {time_entity_s}."
+370,TempOrder,0,"{time_entity_l} ago I started living through {ade}, I have been taking {drug} for {time_entity_s}."
+371,TempOrder,0,"{time_entity_l} ago I started suffering from {ade}, I have been taking {drug} for {time_entity_s}."
+372,TempOrder,0,"{time_entity_l} ago I started encountering {ade}, {time_entity_s} ago I started being medicated with {drug}."
+373,TempOrder,0,"{time_entity_l} ago I started encountering {ade}, {time_entity_s} ago I started being on {drug}."
+374,TempOrder,0,"{time_entity_l} ago I started encountering {ade}, {time_entity_s} ago I started being treated with {drug}."
+375,TempOrder,0,"{time_entity_l} ago I started encountering {ade}, {time_entity_s} ago I started taking {drug}."
+376,TempOrder,0,"{time_entity_l} ago I started enduring {ade}, {time_entity_s} ago I started being medicated with {drug}."
+377,TempOrder,0,"{time_entity_l} ago I started enduring {ade}, {time_entity_s} ago I started being on {drug}."
+378,TempOrder,0,"{time_entity_l} ago I started enduring {ade}, {time_entity_s} ago I started being treated with {drug}."
+379,TempOrder,0,"{time_entity_l} ago I started enduring {ade}, {time_entity_s} ago I started taking {drug}."
+380,TempOrder,0,"{time_entity_l} ago I started experiencing {ade}, {time_entity_s} ago I started being medicated with {drug}."
+381,TempOrder,0,"{time_entity_l} ago I started experiencing {ade}, {time_entity_s} ago I started being on {drug}."
+382,TempOrder,0,"{time_entity_l} ago I started experiencing {ade}, {time_entity_s} ago I started being treated with {drug}."
+383,TempOrder,0,"{time_entity_l} ago I started experiencing {ade}, {time_entity_s} ago I started taking {drug}."
+384,TempOrder,0,"{time_entity_l} ago I started having {ade}, {time_entity_s} ago I started being medicated with {drug}."
+385,TempOrder,0,"{time_entity_l} ago I started having {ade}, {time_entity_s} ago I started being on {drug}."
+386,TempOrder,0,"{time_entity_l} ago I started having {ade}, {time_entity_s} ago I started being treated with {drug}."
+387,TempOrder,0,"{time_entity_l} ago I started having {ade}, {time_entity_s} ago I started taking {drug}."
+388,TempOrder,0,"{time_entity_l} ago I started living through {ade}, {time_entity_s} ago I started being medicated with {drug}."
+389,TempOrder,0,"{time_entity_l} ago I started living through {ade}, {time_entity_s} ago I started being on {drug}."
+390,TempOrder,0,"{time_entity_l} ago I started living through {ade}, {time_entity_s} ago I started being treated with {drug}."
+391,TempOrder,0,"{time_entity_l} ago I started living through {ade}, {time_entity_s} ago I started taking {drug}."
+392,TempOrder,0,"{time_entity_l} ago I started suffering from {ade}, {time_entity_s} ago I started being medicated with {drug}."
+393,TempOrder,0,"{time_entity_l} ago I started suffering from {ade}, {time_entity_s} ago I started being on {drug}."
+394,TempOrder,0,"{time_entity_l} ago I started suffering from {ade}, {time_entity_s} ago I started being treated with {drug}."
+395,TempOrder,0,"{time_entity_l} ago I started suffering from {ade}, {time_entity_s} ago I started taking {drug}."
+396,Beneff,0,I'm taking {drug} and experiencing weight loss. I'm happy because I was trying to lose weight anyway.
+397,Beneff,0,{drug} gives me weight loss. I'm happy because I was trying to lose weight anyway.
+398,Beneff,0,I always have weight loss when I'm on {drug}. I'm happy because I was trying to lose weight anyway.
+399,Beneff,0,"For me, weight loss is a side-effect of {drug}. I'm happy because I was trying to lose weight anyway."
+400,Beneff,0,I'm taking {drug} and experiencing weight gain. I'm happy because I was trying to gain weight anyway.
+401,Beneff,0,{drug} gives me weight gain. I'm happy because I was trying to gain weight anyway.
+402,Beneff,0,I always have weight gain when I'm on {drug}. I'm happy because I was trying to gain weight anyway.
+403,Beneff,0,"For me, weight gain is a side-effect of {drug}. I'm happy because I was trying to gain weight anyway."
+404,Beneff,0,I'm taking {drug} and experiencing sleepiness. I'm happy because I had trouble sleeping at night before.
+405,Beneff,0,{drug} gives me sleepiness. I'm happy because I had trouble sleeping at night before.
+406,Beneff,0,I always have sleepiness when I'm on {drug}. I'm happy because I had trouble sleeping at night before.
+407,Beneff,0,"For me, sleepiness is a side-effect of {drug}. I'm happy because I had trouble sleeping at night before."
+408,Beneff,0,I'm taking {drug} and experiencing decreased need for sleep. I'm happy because I had trouble staying awake during the day before.
+409,Beneff,0,{drug} gives me decreased need for sleep. I'm happy because I had trouble staying awake during the day before.
+410,Beneff,0,I always have decreased need for sleep when I'm on {drug}. I'm happy because I had trouble staying awake during the day before.
+411,Beneff,0,"For me, decreased need for sleep is a side-effect of {drug}. I'm happy because I had trouble staying awake during the day before."
+412,Beneff,0,I'm taking {drug} and experiencing loss of appetite. I'm happy because I was overeating before.
+413,Beneff,0,{drug} gives me loss of appetite. I'm happy because I was overeating before.
+414,Beneff,0,I always have loss of appetite when I'm on {drug}. I'm happy because I was overeating before.
+415,Beneff,0,"For me, loss of appetite is a side-effect of {drug}. I'm happy because I was overeating before."
+416,Beneff,0,I'm taking {drug} and experiencing increased appetite. I'm happy because I was suffering from loss of appetite before.
+417,Beneff,0,{drug} gives me increased appetite. I'm happy because I was suffering from loss of appetite before.
+418,Beneff,0,I always have increased appetite when I'm on {drug}. I'm happy because I was suffering from loss of appetite before.
+419,Beneff,0,"For me, increased appetite is a side-effect of {drug}. I'm happy because I was suffering from loss of appetite before."
+420,Negation,0,I started taking {drug} and did not experience {ade}.
+421,Negation,0,I took {drug} and did not experience {ade}.
+422,Negation,0,I was medicated with {drug} and did not experience {ade}.
+423,Negation,0,I was on {drug} and did not experience {ade}.
+424,Negation,0,I was put on {drug} and did not experience {ade}.
+425,Negation,0,I was treated with {drug} and did not experience {ade}.
+426,Negation,0,I've never encountered {ade} when I started taking {drug}.
+427,Negation,0,I've never encountered {ade} when I was medicated with {drug}.
+428,Negation,0,I've never encountered {ade} when I was put on {drug}.
+429,Negation,0,I've never encountered {ade} when I was treated with {drug}.
+430,Negation,0,I've never encountered {ade} when taking {drug}.
+431,Negation,0,I've never endured {ade} when I started taking {drug}.
+432,Negation,0,I've never endured {ade} when I was medicated with {drug}.
+433,Negation,0,I've never endured {ade} when I was put on {drug}.
+434,Negation,0,I've never endured {ade} when I was treated with {drug}.
+435,Negation,0,I've never endured {ade} when taking {drug}.
+436,Negation,0,I've never experienced {ade} when I started taking {drug}.
+437,Negation,0,I've never experienced {ade} when I was medicated with {drug}.
+438,Negation,0,I've never experienced {ade} when I was put on {drug}.
+439,Negation,0,I've never experienced {ade} when I was treated with {drug}.
+440,Negation,0,I've never experienced {ade} when taking {drug}.
+441,Negation,0,I've never had {ade} when I started taking {drug}.
+442,Negation,0,I've never had {ade} when I was medicated with {drug}.
+443,Negation,0,I've never had {ade} when I was put on {drug}.
+444,Negation,0,I've never had {ade} when I was treated with {drug}.
+445,Negation,0,I've never had {ade} when taking {drug}.
+446,Negation,0,I've never lived through {ade} when I started taking {drug}.
+447,Negation,0,I've never lived through {ade} when I was medicated with {drug}.
+448,Negation,0,I've never lived through {ade} when I was put on {drug}.
+449,Negation,0,I've never lived through {ade} when I was treated with {drug}.
+450,Negation,0,I've never lived through {ade} when taking {drug}.
+451,Negation,0,I've never suffered from {ade} when I started taking {drug}.
+452,Negation,0,I've never suffered from {ade} when I was medicated with {drug}.
+453,Negation,0,I've never suffered from {ade} when I was put on {drug}.
+454,Negation,0,I've never suffered from {ade} when I was treated with {drug}.
+455,Negation,0,I've never suffered from {ade} when taking {drug}.
+456,Negation,0,"For me, {drug} didn't cause {ade}."
+457,Negation,0,No signs of {ade} when I started taking {drug}.
+458,Negation,0,No signs of {ade} when I was medicated with {drug}.
+459,Negation,0,No signs of {ade} when I was put on {drug}.
+460,Negation,0,No signs of {ade} when I was treated with {drug}.
+461,Negation,0,No signs of {ade} when taking {drug}.
+462,Negation,0,I'm lucky I wasn't encountering {ade} when I started taking {drug}.
+463,Negation,0,I'm lucky I wasn't encountering {ade} when I was medicated with {drug}.
+464,Negation,0,I'm lucky I wasn't encountering {ade} when I was put on {drug}.
+465,Negation,0,I'm lucky I wasn't encountering {ade} when I was treated with {drug}.
+466,Negation,0,I'm lucky I wasn't encountering {ade} when taking {drug}.
+467,Negation,0,I'm lucky I wasn't enduring {ade} when I started taking {drug}.
+468,Negation,0,I'm lucky I wasn't enduring {ade} when I was medicated with {drug}.
+469,Negation,0,I'm lucky I wasn't enduring {ade} when I was put on {drug}.
+470,Negation,0,I'm lucky I wasn't enduring {ade} when I was treated with {drug}.
+471,Negation,0,I'm lucky I wasn't enduring {ade} when taking {drug}.
+472,Negation,0,I'm lucky I wasn't experiencing {ade} when I started taking {drug}.
+473,Negation,0,I'm lucky I wasn't experiencing {ade} when I was medicated with {drug}.
+474,Negation,0,I'm lucky I wasn't experiencing {ade} when I was put on {drug}.
+475,Negation,0,I'm lucky I wasn't experiencing {ade} when I was treated with {drug}.
+476,Negation,0,I'm lucky I wasn't experiencing {ade} when taking {drug}.
+477,Negation,0,I'm lucky I wasn't having {ade} when I started taking {drug}.
+478,Negation,0,I'm lucky I wasn't having {ade} when I was medicated with {drug}.
+479,Negation,0,I'm lucky I wasn't having {ade} when I was put on {drug}.
+480,Negation,0,I'm lucky I wasn't having {ade} when I was treated with {drug}.
+481,Negation,0,I'm lucky I wasn't having {ade} when taking {drug}.
+482,Negation,0,I'm lucky I wasn't living through {ade} when I started taking {drug}.
+483,Negation,0,I'm lucky I wasn't living through {ade} when I was medicated with {drug}.
+484,Negation,0,I'm lucky I wasn't living through {ade} when I was put on {drug}.
+485,Negation,0,I'm lucky I wasn't living through {ade} when I was treated with {drug}.
+486,Negation,0,I'm lucky I wasn't living through {ade} when taking {drug}.
+487,Negation,0,I'm lucky I wasn't suffering from {ade} when I started taking {drug}.
+488,Negation,0,I'm lucky I wasn't suffering from {ade} when I was medicated with {drug}.
+489,Negation,0,I'm lucky I wasn't suffering from {ade} when I was put on {drug}.
+490,Negation,0,I'm lucky I wasn't suffering from {ade} when I was treated with {drug}.
+491,Negation,0,I'm lucky I wasn't suffering from {ade} when taking {drug}.
+492,Negation,0,I am taking {drug} without encountering {ade}.
+493,Negation,0,I am taking {drug} without enduring {ade}.
+494,Negation,0,I am taking {drug} without experiencing {ade}.
+495,Negation,0,I am taking {drug} without having {ade}.
+496,Negation,0,I am taking {drug} without living through {ade}.
+497,Negation,0,I am taking {drug} without suffering from {ade}.
+498,Negation,0,Taking {drug} didn't cause {ade} for me.
+499,Negation,0,Never encountered {ade} caused by {drug}.
+500,Negation,0,Never endured {ade} caused by {drug}.
+501,Negation,0,Never experienced {ade} caused by {drug}.
+502,Negation,0,Never had {ade} caused by {drug}.
+503,Negation,0,Never lived through {ade} caused by {drug}.
+504,Negation,0,Never suffered from {ade} caused by {drug}.
+505,Negation,0,"Ever since I started taking {drug}, I've had no signs of {ade}."
+506,Negation,0,"For me, {ade} is not a side-effect of {drug}."
+507,Negation,0,"For me, {drug}-related {ade} has never been an issue."
+508,TempOrder,1,I started taking {drug} before encountering {ade}.
+509,TempOrder,1,I started taking {drug} before enduring {ade}.
+510,TempOrder,1,I started taking {drug} before experiencing {ade}.
+511,TempOrder,1,I started taking {drug} before having {ade}.
+512,TempOrder,1,I started taking {drug} before living through {ade}.
+513,TempOrder,1,I started taking {drug} before suffering from {ade}.
+514,TempOrder,1,I took {drug} before encountering {ade}.
+515,TempOrder,1,I took {drug} before enduring {ade}.
+516,TempOrder,1,I took {drug} before experiencing {ade}.
+517,TempOrder,1,I took {drug} before having {ade}.
+518,TempOrder,1,I took {drug} before living through {ade}.
+519,TempOrder,1,I took {drug} before suffering from {ade}.
+520,TempOrder,1,I was medicated with {drug} before encountering {ade}.
+521,TempOrder,1,I was medicated with {drug} before enduring {ade}.
+522,TempOrder,1,I was medicated with {drug} before experiencing {ade}.
+523,TempOrder,1,I was medicated with {drug} before having {ade}.
+524,TempOrder,1,I was medicated with {drug} before living through {ade}.
+525,TempOrder,1,I was medicated with {drug} before suffering from {ade}.
+526,TempOrder,1,I was on {drug} before encountering {ade}.
+527,TempOrder,1,I was on {drug} before enduring {ade}.
+528,TempOrder,1,I was on {drug} before experiencing {ade}.
+529,TempOrder,1,I was on {drug} before having {ade}.
+530,TempOrder,1,I was on {drug} before living through {ade}.
+531,TempOrder,1,I was on {drug} before suffering from {ade}.
+532,TempOrder,1,I was put on {drug} before encountering {ade}.
+533,TempOrder,1,I was put on {drug} before enduring {ade}.
+534,TempOrder,1,I was put on {drug} before experiencing {ade}.
+535,TempOrder,1,I was put on {drug} before having {ade}.
+536,TempOrder,1,I was put on {drug} before living through {ade}.
+537,TempOrder,1,I was put on {drug} before suffering from {ade}.
+538,TempOrder,1,I was treated with {drug} before encountering {ade}.
+539,TempOrder,1,I was treated with {drug} before enduring {ade}.
+540,TempOrder,1,I was treated with {drug} before experiencing {ade}.
+541,TempOrder,1,I was treated with {drug} before having {ade}.
+542,TempOrder,1,I was treated with {drug} before living through {ade}.
+543,TempOrder,1,I was treated with {drug} before suffering from {ade}.
+544,TempOrder,1,"After I started taking {drug}, I encountered {ade}."
+545,TempOrder,1,"After I started taking {drug}, I endured {ade}."
+546,TempOrder,1,"After I started taking {drug}, I experienced {ade}."
+547,TempOrder,1,"After I started taking {drug}, I had {ade}."
+548,TempOrder,1,"After I started taking {drug}, I lived through {ade}."
+549,TempOrder,1,"After I started taking {drug}, I suffered from {ade}."
+550,TempOrder,1,"After I was medicated with {drug}, I encountered {ade}."
+551,TempOrder,1,"After I was medicated with {drug}, I endured {ade}."
+552,TempOrder,1,"After I was medicated with {drug}, I experienced {ade}."
+553,TempOrder,1,"After I was medicated with {drug}, I had {ade}."
+554,TempOrder,1,"After I was medicated with {drug}, I lived through {ade}."
+555,TempOrder,1,"After I was medicated with {drug}, I suffered from {ade}."
+556,TempOrder,1,"After I was put on {drug}, I encountered {ade}."
+557,TempOrder,1,"After I was put on {drug}, I endured {ade}."
+558,TempOrder,1,"After I was put on {drug}, I experienced {ade}."
+559,TempOrder,1,"After I was put on {drug}, I had {ade}."
+560,TempOrder,1,"After I was put on {drug}, I lived through {ade}."
+561,TempOrder,1,"After I was put on {drug}, I suffered from {ade}."
+562,TempOrder,1,"After I was treated with {drug}, I encountered {ade}."
+563,TempOrder,1,"After I was treated with {drug}, I endured {ade}."
+564,TempOrder,1,"After I was treated with {drug}, I experienced {ade}."
+565,TempOrder,1,"After I was treated with {drug}, I had {ade}."
+566,TempOrder,1,"After I was treated with {drug}, I lived through {ade}."
+567,TempOrder,1,"After I was treated with {drug}, I suffered from {ade}."
+568,TempOrder,1,"After taking {drug}, I encountered {ade}."
+569,TempOrder,1,"After taking {drug}, I endured {ade}."
+570,TempOrder,1,"After taking {drug}, I experienced {ade}."
+571,TempOrder,1,"After taking {drug}, I had {ade}."
+572,TempOrder,1,"After taking {drug}, I lived through {ade}."
+573,TempOrder,1,"After taking {drug}, I suffered from {ade}."
+574,TempOrder,1,I started taking {drug} before I encountered {ade}.
+575,TempOrder,1,I started taking {drug} before I endured {ade}.
+576,TempOrder,1,I started taking {drug} before I experienced {ade}.
+577,TempOrder,1,I started taking {drug} before I had {ade}.
+578,TempOrder,1,I started taking {drug} before I lived through {ade}.
+579,TempOrder,1,I started taking {drug} before I suffered from {ade}.
+580,TempOrder,1,I took {drug} before I encountered {ade}.
+581,TempOrder,1,I took {drug} before I endured {ade}.
+582,TempOrder,1,I took {drug} before I experienced {ade}.
+583,TempOrder,1,I took {drug} before I had {ade}.
+584,TempOrder,1,I took {drug} before I lived through {ade}.
+585,TempOrder,1,I took {drug} before I suffered from {ade}.
+586,TempOrder,1,I was medicated with {drug} before I encountered {ade}.
+587,TempOrder,1,I was medicated with {drug} before I endured {ade}.
+588,TempOrder,1,I was medicated with {drug} before I experienced {ade}.
+589,TempOrder,1,I was medicated with {drug} before I had {ade}.
+590,TempOrder,1,I was medicated with {drug} before I lived through {ade}.
+591,TempOrder,1,I was medicated with {drug} before I suffered from {ade}.
+592,TempOrder,1,I was on {drug} before I encountered {ade}.
+593,TempOrder,1,I was on {drug} before I endured {ade}.
+594,TempOrder,1,I was on {drug} before I experienced {ade}.
+595,TempOrder,1,I was on {drug} before I had {ade}.
+596,TempOrder,1,I was on {drug} before I lived through {ade}.
+597,TempOrder,1,I was on {drug} before I suffered from {ade}.
+598,TempOrder,1,I was put on {drug} before I encountered {ade}.
+599,TempOrder,1,I was put on {drug} before I endured {ade}.
+600,TempOrder,1,I was put on {drug} before I experienced {ade}.
+601,TempOrder,1,I was put on {drug} before I had {ade}.
+602,TempOrder,1,I was put on {drug} before I lived through {ade}.
+603,TempOrder,1,I was put on {drug} before I suffered from {ade}.
+604,TempOrder,1,I was treated with {drug} before I encountered {ade}.
+605,TempOrder,1,I was treated with {drug} before I endured {ade}.
+606,TempOrder,1,I was treated with {drug} before I experienced {ade}.
+607,TempOrder,1,I was treated with {drug} before I had {ade}.
+608,TempOrder,1,I was treated with {drug} before I lived through {ade}.
+609,TempOrder,1,I was treated with {drug} before I suffered from {ade}.
+610,TempOrder,1,I started taking {drug} ahead of encountering {ade}.
+611,TempOrder,1,I started taking {drug} ahead of enduring {ade}.
+612,TempOrder,1,I started taking {drug} ahead of experiencing {ade}.
+613,TempOrder,1,I started taking {drug} ahead of having {ade}.
+614,TempOrder,1,I started taking {drug} ahead of living through {ade}.
+615,TempOrder,1,I started taking {drug} ahead of suffering from {ade}.
+616,TempOrder,1,I took {drug} ahead of encountering {ade}.
+617,TempOrder,1,I took {drug} ahead of enduring {ade}.
+618,TempOrder,1,I took {drug} ahead of experiencing {ade}.
+619,TempOrder,1,I took {drug} ahead of having {ade}.
+620,TempOrder,1,I took {drug} ahead of living through {ade}.
+621,TempOrder,1,I took {drug} ahead of suffering from {ade}.
+622,TempOrder,1,I was medicated with {drug} ahead of encountering {ade}.
+623,TempOrder,1,I was medicated with {drug} ahead of enduring {ade}.
+624,TempOrder,1,I was medicated with {drug} ahead of experiencing {ade}.
+625,TempOrder,1,I was medicated with {drug} ahead of having {ade}.
+626,TempOrder,1,I was medicated with {drug} ahead of living through {ade}.
+627,TempOrder,1,I was medicated with {drug} ahead of suffering from {ade}.
+628,TempOrder,1,I was on {drug} ahead of encountering {ade}.
+629,TempOrder,1,I was on {drug} ahead of enduring {ade}.
+630,TempOrder,1,I was on {drug} ahead of experiencing {ade}.
+631,TempOrder,1,I was on {drug} ahead of having {ade}.
+632,TempOrder,1,I was on {drug} ahead of living through {ade}.
+633,TempOrder,1,I was on {drug} ahead of suffering from {ade}.
+634,TempOrder,1,I was put on {drug} ahead of encountering {ade}.
+635,TempOrder,1,I was put on {drug} ahead of enduring {ade}.
+636,TempOrder,1,I was put on {drug} ahead of experiencing {ade}.
+637,TempOrder,1,I was put on {drug} ahead of having {ade}.
+638,TempOrder,1,I was put on {drug} ahead of living through {ade}.
+639,TempOrder,1,I was put on {drug} ahead of suffering from {ade}.
+640,TempOrder,1,I was treated with {drug} ahead of encountering {ade}.
+641,TempOrder,1,I was treated with {drug} ahead of enduring {ade}.
+642,TempOrder,1,I was treated with {drug} ahead of experiencing {ade}.
+643,TempOrder,1,I was treated with {drug} ahead of having {ade}.
+644,TempOrder,1,I was treated with {drug} ahead of living through {ade}.
+645,TempOrder,1,I was treated with {drug} ahead of suffering from {ade}.
+646,TempOrder,1,"Before encountering {ade}, I started taking {drug}."
+647,TempOrder,1,"Before encountering {ade}, I took {drug}."
+648,TempOrder,1,"Before encountering {ade}, I was medicated with {drug}."
+649,TempOrder,1,"Before encountering {ade}, I was on {drug}."
+650,TempOrder,1,"Before encountering {ade}, I was put on {drug}."
+651,TempOrder,1,"Before encountering {ade}, I was treated with {drug}."
+652,TempOrder,1,"Before enduring {ade}, I started taking {drug}."
+653,TempOrder,1,"Before enduring {ade}, I took {drug}."
+654,TempOrder,1,"Before enduring {ade}, I was medicated with {drug}."
+655,TempOrder,1,"Before enduring {ade}, I was on {drug}."
+656,TempOrder,1,"Before enduring {ade}, I was put on {drug}."
+657,TempOrder,1,"Before enduring {ade}, I was treated with {drug}."
+658,TempOrder,1,"Before experiencing {ade}, I started taking {drug}."
+659,TempOrder,1,"Before experiencing {ade}, I took {drug}."
+660,TempOrder,1,"Before experiencing {ade}, I was medicated with {drug}."
+661,TempOrder,1,"Before experiencing {ade}, I was on {drug}."
+662,TempOrder,1,"Before experiencing {ade}, I was put on {drug}."
+663,TempOrder,1,"Before experiencing {ade}, I was treated with {drug}."
+664,TempOrder,1,"Before having {ade}, I started taking {drug}."
+665,TempOrder,1,"Before having {ade}, I took {drug}."
+666,TempOrder,1,"Before having {ade}, I was medicated with {drug}."
+667,TempOrder,1,"Before having {ade}, I was on {drug}."
+668,TempOrder,1,"Before having {ade}, I was put on {drug}."
+669,TempOrder,1,"Before having {ade}, I was treated with {drug}."
+670,TempOrder,1,"Before living through {ade}, I started taking {drug}."
+671,TempOrder,1,"Before living through {ade}, I took {drug}."
+672,TempOrder,1,"Before living through {ade}, I was medicated with {drug}."
+673,TempOrder,1,"Before living through {ade}, I was on {drug}."
+674,TempOrder,1,"Before living through {ade}, I was put on {drug}."
+675,TempOrder,1,"Before living through {ade}, I was treated with {drug}."
+676,TempOrder,1,"Before suffering from {ade}, I started taking {drug}."
+677,TempOrder,1,"Before suffering from {ade}, I took {drug}."
+678,TempOrder,1,"Before suffering from {ade}, I was medicated with {drug}."
+679,TempOrder,1,"Before suffering from {ade}, I was on {drug}."
+680,TempOrder,1,"Before suffering from {ade}, I was put on {drug}."
+681,TempOrder,1,"Before suffering from {ade}, I was treated with {drug}."
+682,TempOrder,1,"Ahead of encountering {ade}, I started taking {drug}."
+683,TempOrder,1,"Ahead of encountering {ade}, I took {drug}."
+684,TempOrder,1,"Ahead of encountering {ade}, I was medicated with {drug}."
+685,TempOrder,1,"Ahead of encountering {ade}, I was on {drug}."
+686,TempOrder,1,"Ahead of encountering {ade}, I was put on {drug}."
+687,TempOrder,1,"Ahead of encountering {ade}, I was treated with {drug}."
+688,TempOrder,1,"Ahead of enduring {ade}, I started taking {drug}."
+689,TempOrder,1,"Ahead of enduring {ade}, I took {drug}."
+690,TempOrder,1,"Ahead of enduring {ade}, I was medicated with {drug}."
+691,TempOrder,1,"Ahead of enduring {ade}, I was on {drug}."
+692,TempOrder,1,"Ahead of enduring {ade}, I was put on {drug}."
+693,TempOrder,1,"Ahead of enduring {ade}, I was treated with {drug}."
+694,TempOrder,1,"Ahead of experiencing {ade}, I started taking {drug}."
+695,TempOrder,1,"Ahead of experiencing {ade}, I took {drug}."
+696,TempOrder,1,"Ahead of experiencing {ade}, I was medicated with {drug}."
+697,TempOrder,1,"Ahead of experiencing {ade}, I was on {drug}."
+698,TempOrder,1,"Ahead of experiencing {ade}, I was put on {drug}."
+699,TempOrder,1,"Ahead of experiencing {ade}, I was treated with {drug}."
+700,TempOrder,1,"Ahead of having {ade}, I started taking {drug}."
+701,TempOrder,1,"Ahead of having {ade}, I took {drug}."
+702,TempOrder,1,"Ahead of having {ade}, I was medicated with {drug}."
+703,TempOrder,1,"Ahead of having {ade}, I was on {drug}."
+704,TempOrder,1,"Ahead of having {ade}, I was put on {drug}."
+705,TempOrder,1,"Ahead of having {ade}, I was treated with {drug}."
+706,TempOrder,1,"Ahead of living through {ade}, I started taking {drug}."
+707,TempOrder,1,"Ahead of living through {ade}, I took {drug}."
+708,TempOrder,1,"Ahead of living through {ade}, I was medicated with {drug}."
+709,TempOrder,1,"Ahead of living through {ade}, I was on {drug}."
+710,TempOrder,1,"Ahead of living through {ade}, I was put on {drug}."
+711,TempOrder,1,"Ahead of living through {ade}, I was treated with {drug}."
+712,TempOrder,1,"Ahead of suffering from {ade}, I started taking {drug}."
+713,TempOrder,1,"Ahead of suffering from {ade}, I took {drug}."
+714,TempOrder,1,"Ahead of suffering from {ade}, I was medicated with {drug}."
+715,TempOrder,1,"Ahead of suffering from {ade}, I was on {drug}."
+716,TempOrder,1,"Ahead of suffering from {ade}, I was put on {drug}."
+717,TempOrder,1,"Ahead of suffering from {ade}, I was treated with {drug}."
+718,TempOrder,1,"When I started encountering {ade}, I was already medicated with {drug}."
+719,TempOrder,1,"When I started encountering {ade}, I was already on {drug}."
+720,TempOrder,1,"When I started encountering {ade}, I was already taking {drug}."
+721,TempOrder,1,"When I started encountering {ade}, I was already treated with {drug}."
+722,TempOrder,1,"When I started enduring {ade}, I was already medicated with {drug}."
+723,TempOrder,1,"When I started enduring {ade}, I was already on {drug}."
+724,TempOrder,1,"When I started enduring {ade}, I was already taking {drug}."
+725,TempOrder,1,"When I started enduring {ade}, I was already treated with {drug}."
+726,TempOrder,1,"When I started experiencing {ade}, I was already medicated with {drug}."
+727,TempOrder,1,"When I started experiencing {ade}, I was already on {drug}."
+728,TempOrder,1,"When I started experiencing {ade}, I was already taking {drug}."
+729,TempOrder,1,"When I started experiencing {ade}, I was already treated with {drug}."
+730,TempOrder,1,"When I started having {ade}, I was already medicated with {drug}."
+731,TempOrder,1,"When I started having {ade}, I was already on {drug}."
+732,TempOrder,1,"When I started having {ade}, I was already taking {drug}."
+733,TempOrder,1,"When I started having {ade}, I was already treated with {drug}."
+734,TempOrder,1,"When I started living through {ade}, I was already medicated with {drug}."
+735,TempOrder,1,"When I started living through {ade}, I was already on {drug}."
+736,TempOrder,1,"When I started living through {ade}, I was already taking {drug}."
+737,TempOrder,1,"When I started living through {ade}, I was already treated with {drug}."
+738,TempOrder,1,"When I started suffering from {ade}, I was already medicated with {drug}."
+739,TempOrder,1,"When I started suffering from {ade}, I was already on {drug}."
+740,TempOrder,1,"When I started suffering from {ade}, I was already taking {drug}."
+741,TempOrder,1,"When I started suffering from {ade}, I was already treated with {drug}."
+742,TempOrder,1,"I was already medicated with {drug}, when I started encountering {ade}."
+743,TempOrder,1,"I was already medicated with {drug}, when I started enduring {ade}."
+744,TempOrder,1,"I was already medicated with {drug}, when I started experiencing {ade}."
+745,TempOrder,1,"I was already medicated with {drug}, when I started having {ade}."
+746,TempOrder,1,"I was already medicated with {drug}, when I started living through {ade}."
+747,TempOrder,1,"I was already medicated with {drug}, when I started suffering from {ade}."
+748,TempOrder,1,"I was already on {drug}, when I started encountering {ade}."
+749,TempOrder,1,"I was already on {drug}, when I started enduring {ade}."
+750,TempOrder,1,"I was already on {drug}, when I started experiencing {ade}."
+751,TempOrder,1,"I was already on {drug}, when I started having {ade}."
+752,TempOrder,1,"I was already on {drug}, when I started living through {ade}."
+753,TempOrder,1,"I was already on {drug}, when I started suffering from {ade}."
+754,TempOrder,1,"I was already taking {drug}, when I started encountering {ade}."
+755,TempOrder,1,"I was already taking {drug}, when I started enduring {ade}."
+756,TempOrder,1,"I was already taking {drug}, when I started experiencing {ade}."
+757,TempOrder,1,"I was already taking {drug}, when I started having {ade}."
+758,TempOrder,1,"I was already taking {drug}, when I started living through {ade}."
+759,TempOrder,1,"I was already taking {drug}, when I started suffering from {ade}."
+760,TempOrder,1,"I was already treated with {drug}, when I started encountering {ade}."
+761,TempOrder,1,"I was already treated with {drug}, when I started enduring {ade}."
+762,TempOrder,1,"I was already treated with {drug}, when I started experiencing {ade}."
+763,TempOrder,1,"I was already treated with {drug}, when I started having {ade}."
+764,TempOrder,1,"I was already treated with {drug}, when I started living through {ade}."
+765,TempOrder,1,"I was already treated with {drug}, when I started suffering from {ade}."
+766,TempOrder,1,"I was medicated with {drug}, when I encountered {ade}."
+767,TempOrder,1,"I was medicated with {drug}, when I endured {ade}."
+768,TempOrder,1,"I was medicated with {drug}, when I experienced {ade}."
+769,TempOrder,1,"I was medicated with {drug}, when I had {ade}."
+770,TempOrder,1,"I was medicated with {drug}, when I lived through {ade}."
+771,TempOrder,1,"I was medicated with {drug}, when I suffered from {ade}."
+772,TempOrder,1,"I was on {drug}, when I encountered {ade}."
+773,TempOrder,1,"I was on {drug}, when I endured {ade}."
+774,TempOrder,1,"I was on {drug}, when I experienced {ade}."
+775,TempOrder,1,"I was on {drug}, when I had {ade}."
+776,TempOrder,1,"I was on {drug}, when I lived through {ade}."
+777,TempOrder,1,"I was on {drug}, when I suffered from {ade}."
+778,TempOrder,1,"I was taking {drug}, when I encountered {ade}."
+779,TempOrder,1,"I was taking {drug}, when I endured {ade}."
+780,TempOrder,1,"I was taking {drug}, when I experienced {ade}."
+781,TempOrder,1,"I was taking {drug}, when I had {ade}."
+782,TempOrder,1,"I was taking {drug}, when I lived through {ade}."
+783,TempOrder,1,"I was taking {drug}, when I suffered from {ade}."
+784,TempOrder,1,"I was treated with {drug}, when I encountered {ade}."
+785,TempOrder,1,"I was treated with {drug}, when I endured {ade}."
+786,TempOrder,1,"I was treated with {drug}, when I experienced {ade}."
+787,TempOrder,1,"I was treated with {drug}, when I had {ade}."
+788,TempOrder,1,"I was treated with {drug}, when I lived through {ade}."
+789,TempOrder,1,"I was treated with {drug}, when I suffered from {ade}."
+790,TempOrder,1,"I was encountering {ade}, and I am sure it was due to the {drug} because I had never had {ade} before."
+791,TempOrder,1,"I was enduring {ade}, and I am sure it was due to the {drug} because I had never had {ade} before."
+792,TempOrder,1,"I was experiencing {ade}, and I am sure it was due to the {drug} because I had never had {ade} before."
+793,TempOrder,1,"I was having {ade}, and I am sure it was due to the {drug} because I had never had {ade} before."
+794,TempOrder,1,"I was living through {ade}, and I am sure it was due to the {drug} because I had never had {ade} before."
+795,TempOrder,1,"I was suffering from {ade}, and I am sure it was due to the {drug} because I had never had {ade} before."
+796,TempOrder,1,Should I stop taking {drug} when I'm encountering {ade}?
+797,TempOrder,1,Should I stop taking {drug} when I'm enduring {ade}?
+798,TempOrder,1,Should I stop taking {drug} when I'm experiencing {ade}?
+799,TempOrder,1,Should I stop taking {drug} when I'm having {ade}?
+800,TempOrder,1,Should I stop taking {drug} when I'm living through {ade}?
+801,TempOrder,1,Should I stop taking {drug} when I'm suffering from {ade}?
+802,TempOrder,1,"I'm unsure if I should stop taking {drug}, when I'm encountering {ade}."
+803,TempOrder,1,"I'm unsure if I should stop taking {drug}, when I'm enduring {ade}."
+804,TempOrder,1,"I'm unsure if I should stop taking {drug}, when I'm experiencing {ade}."
+805,TempOrder,1,"I'm unsure if I should stop taking {drug}, when I'm having {ade}."
+806,TempOrder,1,"I'm unsure if I should stop taking {drug}, when I'm living through {ade}."
+807,TempOrder,1,"I'm unsure if I should stop taking {drug}, when I'm suffering from {ade}."
+808,TempOrder,1,"I was medicated with {drug} for {time_entity}, now I started encountering {ade}."
+809,TempOrder,1,"I was medicated with {drug} for {time_entity}, now I started enduring {ade}."
+810,TempOrder,1,"I was medicated with {drug} for {time_entity}, now I started experiencing {ade}."
+811,TempOrder,1,"I was medicated with {drug} for {time_entity}, now I started having {ade}."
+812,TempOrder,1,"I was medicated with {drug} for {time_entity}, now I started living through {ade}."
+813,TempOrder,1,"I was medicated with {drug} for {time_entity}, now I started suffering from {ade}."
+814,TempOrder,1,"I was on {drug} for {time_entity}, now I started encountering {ade}."
+815,TempOrder,1,"I was on {drug} for {time_entity}, now I started enduring {ade}."
+816,TempOrder,1,"I was on {drug} for {time_entity}, now I started experiencing {ade}."
+817,TempOrder,1,"I was on {drug} for {time_entity}, now I started having {ade}."
+818,TempOrder,1,"I was on {drug} for {time_entity}, now I started living through {ade}."
+819,TempOrder,1,"I was on {drug} for {time_entity}, now I started suffering from {ade}."
+820,TempOrder,1,"I was taking {drug} for {time_entity}, now I started encountering {ade}."
+821,TempOrder,1,"I was taking {drug} for {time_entity}, now I started enduring {ade}."
+822,TempOrder,1,"I was taking {drug} for {time_entity}, now I started experiencing {ade}."
+823,TempOrder,1,"I was taking {drug} for {time_entity}, now I started having {ade}."
+824,TempOrder,1,"I was taking {drug} for {time_entity}, now I started living through {ade}."
+825,TempOrder,1,"I was taking {drug} for {time_entity}, now I started suffering from {ade}."
+826,TempOrder,1,"I was treated with {drug} for {time_entity}, now I started encountering {ade}."
+827,TempOrder,1,"I was treated with {drug} for {time_entity}, now I started enduring {ade}."
+828,TempOrder,1,"I was treated with {drug} for {time_entity}, now I started experiencing {ade}."
+829,TempOrder,1,"I was treated with {drug} for {time_entity}, now I started having {ade}."
+830,TempOrder,1,"I was treated with {drug} for {time_entity}, now I started living through {ade}."
+831,TempOrder,1,"I was treated with {drug} for {time_entity}, now I started suffering from {ade}."
+832,TempOrder,1,"{time_entity} ago I started being medicated with {drug}, now I started encountering {ade}."
+833,TempOrder,1,"{time_entity} ago I started being medicated with {drug}, now I started enduring {ade}."
+834,TempOrder,1,"{time_entity} ago I started being medicated with {drug}, now I started experiencing {ade}."
+835,TempOrder,1,"{time_entity} ago I started being medicated with {drug}, now I started having {ade}."
+836,TempOrder,1,"{time_entity} ago I started being medicated with {drug}, now I started living through {ade}."
+837,TempOrder,1,"{time_entity} ago I started being medicated with {drug}, now I started suffering from {ade}."
+838,TempOrder,1,"{time_entity} ago I started being on {drug}, now I started encountering {ade}."
+839,TempOrder,1,"{time_entity} ago I started being on {drug}, now I started enduring {ade}."
+840,TempOrder,1,"{time_entity} ago I started being on {drug}, now I started experiencing {ade}."
+841,TempOrder,1,"{time_entity} ago I started being on {drug}, now I started having {ade}."
+842,TempOrder,1,"{time_entity} ago I started being on {drug}, now I started living through {ade}."
+843,TempOrder,1,"{time_entity} ago I started being on {drug}, now I started suffering from {ade}."
+844,TempOrder,1,"{time_entity} ago I started being treated with {drug}, now I started encountering {ade}."
+845,TempOrder,1,"{time_entity} ago I started being treated with {drug}, now I started enduring {ade}."
+846,TempOrder,1,"{time_entity} ago I started being treated with {drug}, now I started experiencing {ade}."
+847,TempOrder,1,"{time_entity} ago I started being treated with {drug}, now I started having {ade}."
+848,TempOrder,1,"{time_entity} ago I started being treated with {drug}, now I started living through {ade}."
+849,TempOrder,1,"{time_entity} ago I started being treated with {drug}, now I started suffering from {ade}."
+850,TempOrder,1,"{time_entity} ago I started taking {drug}, now I started encountering {ade}."
+851,TempOrder,1,"{time_entity} ago I started taking {drug}, now I started enduring {ade}."
+852,TempOrder,1,"{time_entity} ago I started taking {drug}, now I started experiencing {ade}."
+853,TempOrder,1,"{time_entity} ago I started taking {drug}, now I started having {ade}."
+854,TempOrder,1,"{time_entity} ago I started taking {drug}, now I started living through {ade}."
+855,TempOrder,1,"{time_entity} ago I started taking {drug}, now I started suffering from {ade}."
+856,TempOrder,1,"I was encountering {ade} for {time_entity_s}, {time_entity_l} ago I started being medicated with {drug}."
+857,TempOrder,1,"I was encountering {ade} for {time_entity_s}, {time_entity_l} ago I started being on {drug}."
+858,TempOrder,1,"I was encountering {ade} for {time_entity_s}, {time_entity_l} ago I started being treated with {drug}."
+859,TempOrder,1,"I was encountering {ade} for {time_entity_s}, {time_entity_l} ago I started taking {drug}."
+860,TempOrder,1,"I was enduring {ade} for {time_entity_s}, {time_entity_l} ago I started being medicated with {drug}."
+861,TempOrder,1,"I was enduring {ade} for {time_entity_s}, {time_entity_l} ago I started being on {drug}."
+862,TempOrder,1,"I was enduring {ade} for {time_entity_s}, {time_entity_l} ago I started being treated with {drug}."
+863,TempOrder,1,"I was enduring {ade} for {time_entity_s}, {time_entity_l} ago I started taking {drug}."
+864,TempOrder,1,"I was experiencing {ade} for {time_entity_s}, {time_entity_l} ago I started being medicated with {drug}."
+865,TempOrder,1,"I was experiencing {ade} for {time_entity_s}, {time_entity_l} ago I started being on {drug}."
+866,TempOrder,1,"I was experiencing {ade} for {time_entity_s}, {time_entity_l} ago I started being treated with {drug}."
+867,TempOrder,1,"I was experiencing {ade} for {time_entity_s}, {time_entity_l} ago I started taking {drug}."
+868,TempOrder,1,"I was having {ade} for {time_entity_s}, {time_entity_l} ago I started being medicated with {drug}."
+869,TempOrder,1,"I was having {ade} for {time_entity_s}, {time_entity_l} ago I started being on {drug}."
+870,TempOrder,1,"I was having {ade} for {time_entity_s}, {time_entity_l} ago I started being treated with {drug}."
+871,TempOrder,1,"I was having {ade} for {time_entity_s}, {time_entity_l} ago I started taking {drug}."
+872,TempOrder,1,"I was living through {ade} for {time_entity_s}, {time_entity_l} ago I started being medicated with {drug}."
+873,TempOrder,1,"I was living through {ade} for {time_entity_s}, {time_entity_l} ago I started being on {drug}."
+874,TempOrder,1,"I was living through {ade} for {time_entity_s}, {time_entity_l} ago I started being treated with {drug}."
+875,TempOrder,1,"I was living through {ade} for {time_entity_s}, {time_entity_l} ago I started taking {drug}."
+876,TempOrder,1,"I was suffering from {ade} for {time_entity_s}, {time_entity_l} ago I started being medicated with {drug}."
+877,TempOrder,1,"I was suffering from {ade} for {time_entity_s}, {time_entity_l} ago I started being on {drug}."
+878,TempOrder,1,"I was suffering from {ade} for {time_entity_s}, {time_entity_l} ago I started being treated with {drug}."
+879,TempOrder,1,"I was suffering from {ade} for {time_entity_s}, {time_entity_l} ago I started taking {drug}."
+880,TempOrder,1,"{time_entity_l} ago I started being medicated with {drug}, I have been encountering {ade} for {time_entity_s}."
+881,TempOrder,1,"{time_entity_l} ago I started being medicated with {drug}, I have been enduring {ade} for {time_entity_s}."
+882,TempOrder,1,"{time_entity_l} ago I started being medicated with {drug}, I have been experiencing {ade} for {time_entity_s}."
+883,TempOrder,1,"{time_entity_l} ago I started being medicated with {drug}, I have been having {ade} for {time_entity_s}."
+884,TempOrder,1,"{time_entity_l} ago I started being medicated with {drug}, I have been living through {ade} for {time_entity_s}."
+885,TempOrder,1,"{time_entity_l} ago I started being medicated with {drug}, I have been suffering from {ade} for {time_entity_s}."
+886,TempOrder,1,"{time_entity_l} ago I started being on {drug}, I have been encountering {ade} for {time_entity_s}."
+887,TempOrder,1,"{time_entity_l} ago I started being on {drug}, I have been enduring {ade} for {time_entity_s}."
+888,TempOrder,1,"{time_entity_l} ago I started being on {drug}, I have been experiencing {ade} for {time_entity_s}."
+889,TempOrder,1,"{time_entity_l} ago I started being on {drug}, I have been having {ade} for {time_entity_s}."
+890,TempOrder,1,"{time_entity_l} ago I started being on {drug}, I have been living through {ade} for {time_entity_s}."
+891,TempOrder,1,"{time_entity_l} ago I started being on {drug}, I have been suffering from {ade} for {time_entity_s}."
+892,TempOrder,1,"{time_entity_l} ago I started being treated with {drug}, I have been encountering {ade} for {time_entity_s}."
+893,TempOrder,1,"{time_entity_l} ago I started being treated with {drug}, I have been enduring {ade} for {time_entity_s}."
+894,TempOrder,1,"{time_entity_l} ago I started being treated with {drug}, I have been experiencing {ade} for {time_entity_s}."
+895,TempOrder,1,"{time_entity_l} ago I started being treated with {drug}, I have been having {ade} for {time_entity_s}."
+896,TempOrder,1,"{time_entity_l} ago I started being treated with {drug}, I have been living through {ade} for {time_entity_s}."
+897,TempOrder,1,"{time_entity_l} ago I started being treated with {drug}, I have been suffering from {ade} for {time_entity_s}."
+898,TempOrder,1,"{time_entity_l} ago I started taking {drug}, I have been encountering {ade} for {time_entity_s}."
+899,TempOrder,1,"{time_entity_l} ago I started taking {drug}, I have been enduring {ade} for {time_entity_s}."
+900,TempOrder,1,"{time_entity_l} ago I started taking {drug}, I have been experiencing {ade} for {time_entity_s}."
+901,TempOrder,1,"{time_entity_l} ago I started taking {drug}, I have been having {ade} for {time_entity_s}."
+902,TempOrder,1,"{time_entity_l} ago I started taking {drug}, I have been living through {ade} for {time_entity_s}."
+903,TempOrder,1,"{time_entity_l} ago I started taking {drug}, I have been suffering from {ade} for {time_entity_s}."
+904,TempOrder,1,"{time_entity_s} ago I started encountering {ade}, {time_entity_l} ago I started being medicated with {drug}."
+905,TempOrder,1,"{time_entity_s} ago I started encountering {ade}, {time_entity_l} ago I started being on {drug}."
+906,TempOrder,1,"{time_entity_s} ago I started encountering {ade}, {time_entity_l} ago I started being treated with {drug}."
+907,TempOrder,1,"{time_entity_s} ago I started encountering {ade}, {time_entity_l} ago I started taking {drug}."
+908,TempOrder,1,"{time_entity_s} ago I started enduring {ade}, {time_entity_l} ago I started being medicated with {drug}."
+909,TempOrder,1,"{time_entity_s} ago I started enduring {ade}, {time_entity_l} ago I started being on {drug}."
+910,TempOrder,1,"{time_entity_s} ago I started enduring {ade}, {time_entity_l} ago I started being treated with {drug}."
+911,TempOrder,1,"{time_entity_s} ago I started enduring {ade}, {time_entity_l} ago I started taking {drug}."
+912,TempOrder,1,"{time_entity_s} ago I started experiencing {ade}, {time_entity_l} ago I started being medicated with {drug}."
+913,TempOrder,1,"{time_entity_s} ago I started experiencing {ade}, {time_entity_l} ago I started being on {drug}."
+914,TempOrder,1,"{time_entity_s} ago I started experiencing {ade}, {time_entity_l} ago I started being treated with {drug}."
+915,TempOrder,1,"{time_entity_s} ago I started experiencing {ade}, {time_entity_l} ago I started taking {drug}."
+916,TempOrder,1,"{time_entity_s} ago I started having {ade}, {time_entity_l} ago I started being medicated with {drug}."
+917,TempOrder,1,"{time_entity_s} ago I started having {ade}, {time_entity_l} ago I started being on {drug}."
+918,TempOrder,1,"{time_entity_s} ago I started having {ade}, {time_entity_l} ago I started being treated with {drug}."
+919,TempOrder,1,"{time_entity_s} ago I started having {ade}, {time_entity_l} ago I started taking {drug}."
+920,TempOrder,1,"{time_entity_s} ago I started living through {ade}, {time_entity_l} ago I started being medicated with {drug}."
+921,TempOrder,1,"{time_entity_s} ago I started living through {ade}, {time_entity_l} ago I started being on {drug}."
+922,TempOrder,1,"{time_entity_s} ago I started living through {ade}, {time_entity_l} ago I started being treated with {drug}."
+923,TempOrder,1,"{time_entity_s} ago I started living through {ade}, {time_entity_l} ago I started taking {drug}."
+924,TempOrder,1,"{time_entity_s} ago I started suffering from {ade}, {time_entity_l} ago I started being medicated with {drug}."
+925,TempOrder,1,"{time_entity_s} ago I started suffering from {ade}, {time_entity_l} ago I started being on {drug}."
+926,TempOrder,1,"{time_entity_s} ago I started suffering from {ade}, {time_entity_l} ago I started being treated with {drug}."
+927,TempOrder,1,"{time_entity_s} ago I started suffering from {ade}, {time_entity_l} ago I started taking {drug}."
+928,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, I am happy my symptoms have reduced."
+929,PosSent,1,"I'm taking {drug} and experiencing {ade}. Still, I am happy my symptoms have reduced."
+930,PosSent,1,"I'm taking {drug} and experiencing {ade}. Yet, I am happy my symptoms have reduced."
+931,PosSent,1,I'm taking {drug} and experiencing {ade}. I am happy my symptoms have reduced.
+932,PosSent,1,"I'm taking {drug} and experiencing {ade}, but I am happy my symptoms have reduced."
+933,PosSent,1,"I'm taking {drug} and experiencing {ade}, still I am happy my symptoms have reduced."
+934,PosSent,1,"I'm taking {drug} and experiencing {ade}, yet I am happy my symptoms have reduced."
+935,PosSent,1,"I'm taking {drug} and experiencing {ade}, I am happy my symptoms have reduced."
+936,PosSent,1,I am happy my symptoms have reduced. Even though I'm taking {drug} and experiencing {ade}.
+937,PosSent,1,I am happy my symptoms have reduced. Although I'm taking {drug} and experiencing {ade}.
+938,PosSent,1,I am happy my symptoms have reduced. But I'm taking {drug} and experiencing {ade}.
+939,PosSent,1,"I am happy my symptoms have reduced, even though I'm taking {drug} and experiencing {ade}."
+940,PosSent,1,"I am happy my symptoms have reduced, although I'm taking {drug} and experiencing {ade}."
+941,PosSent,1,"I am happy my symptoms have reduced, but I'm taking {drug} and experiencing {ade}."
+942,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, I feel much better in general than without {drug}."
+943,PosSent,1,"I'm taking {drug} and experiencing {ade}. Still, I feel much better in general than without {drug}."
+944,PosSent,1,"I'm taking {drug} and experiencing {ade}. Yet, I feel much better in general than without {drug}."
+945,PosSent,1,I'm taking {drug} and experiencing {ade}. I feel much better in general than without {drug}.
+946,PosSent,1,"I'm taking {drug} and experiencing {ade}, but I feel much better in general than without {drug}."
+947,PosSent,1,"I'm taking {drug} and experiencing {ade}, still I feel much better in general than without {drug}."
+948,PosSent,1,"I'm taking {drug} and experiencing {ade}, yet I feel much better in general than without {drug}."
+949,PosSent,1,"I'm taking {drug} and experiencing {ade}, I feel much better in general than without {drug}."
+950,PosSent,1,I feel much better in general than without {drug}. Even though I'm taking {drug} and experiencing {ade}.
+951,PosSent,1,I feel much better in general than without {drug}. Although I'm taking {drug} and experiencing {ade}.
+952,PosSent,1,I feel much better in general than without {drug}. But I'm taking {drug} and experiencing {ade}.
+953,PosSent,1,"I feel much better in general than without {drug}, even though I'm taking {drug} and experiencing {ade}."
+954,PosSent,1,"I feel much better in general than without {drug}, although I'm taking {drug} and experiencing {ade}."
+955,PosSent,1,"I feel much better in general than without {drug}, but I'm taking {drug} and experiencing {ade}."
+956,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, my quality of life has increased dramatically."
+957,PosSent,1,"I'm taking {drug} and experiencing {ade}. Still, my quality of life has increased dramatically."
+958,PosSent,1,"I'm taking {drug} and experiencing {ade}. Yet, my quality of life has increased dramatically."
+959,PosSent,1,I'm taking {drug} and experiencing {ade}. My quality of life has increased dramatically.
+960,PosSent,1,"I'm taking {drug} and experiencing {ade}, but my quality of life has increased dramatically."
+961,PosSent,1,"I'm taking {drug} and experiencing {ade}, still my quality of life has increased dramatically."
+962,PosSent,1,"I'm taking {drug} and experiencing {ade}, yet my quality of life has increased dramatically."
+963,PosSent,1,"I'm taking {drug} and experiencing {ade}, my quality of life has increased dramatically."
+964,PosSent,1,My quality of life has increased dramatically. Even though I'm taking {drug} and experiencing {ade}.
+965,PosSent,1,My quality of life has increased dramatically. Although I'm taking {drug} and experiencing {ade}.
+966,PosSent,1,My quality of life has increased dramatically. But I'm taking {drug} and experiencing {ade}.
+967,PosSent,1,"My quality of life has increased dramatically, even though I'm taking {drug} and experiencing {ade}."
+968,PosSent,1,"My quality of life has increased dramatically, although I'm taking {drug} and experiencing {ade}."
+969,PosSent,1,"My quality of life has increased dramatically, but I'm taking {drug} and experiencing {ade}."
+970,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, I haven't felt this good in years."
+971,PosSent,1,"I'm taking {drug} and experiencing {ade}. Still, I haven't felt this good in years."
+972,PosSent,1,"I'm taking {drug} and experiencing {ade}. Yet, I haven't felt this good in years."
+973,PosSent,1,I'm taking {drug} and experiencing {ade}. I haven't felt this good in years.
+974,PosSent,1,"I'm taking {drug} and experiencing {ade}, but I haven't felt this good in years."
+975,PosSent,1,"I'm taking {drug} and experiencing {ade}, still I haven't felt this good in years."
+976,PosSent,1,"I'm taking {drug} and experiencing {ade}, yet I haven't felt this good in years."
+977,PosSent,1,"I'm taking {drug} and experiencing {ade}, I haven't felt this good in years."
+978,PosSent,1,I haven't felt this good in years. Even though I'm taking {drug} and experiencing {ade}.
+979,PosSent,1,I haven't felt this good in years. Although I'm taking {drug} and experiencing {ade}.
+980,PosSent,1,I haven't felt this good in years. But I'm taking {drug} and experiencing {ade}.
+981,PosSent,1,"I haven't felt this good in years, even though I'm taking {drug} and experiencing {ade}."
+982,PosSent,1,"I haven't felt this good in years, although I'm taking {drug} and experiencing {ade}."
+983,PosSent,1,"I haven't felt this good in years, but I'm taking {drug} and experiencing {ade}."
+984,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, I am happier than before taking {drug}."
+985,PosSent,1,"I'm taking {drug} and experiencing {ade}. Still, I am happier than before taking {drug}."
+986,PosSent,1,"I'm taking {drug} and experiencing {ade}. Yet, I am happier than before taking {drug}."
+987,PosSent,1,I'm taking {drug} and experiencing {ade}. I am happier than before taking {drug}.
+988,PosSent,1,"I'm taking {drug} and experiencing {ade}, but I am happier than before taking {drug}."
+989,PosSent,1,"I'm taking {drug} and experiencing {ade}, still I am happier than before taking {drug}."
+990,PosSent,1,"I'm taking {drug} and experiencing {ade}, yet I am happier than before taking {drug}."
+991,PosSent,1,"I'm taking {drug} and experiencing {ade}, I am happier than before taking {drug}."
+992,PosSent,1,I am happier than before taking {drug}. Even though I'm taking {drug} and experiencing {ade}.
+993,PosSent,1,I am happier than before taking {drug}. Although I'm taking {drug} and experiencing {ade}.
+994,PosSent,1,I am happier than before taking {drug}. But I'm taking {drug} and experiencing {ade}.
+995,PosSent,1,"I am happier than before taking {drug}, even though I'm taking {drug} and experiencing {ade}."
+996,PosSent,1,"I am happier than before taking {drug}, although I'm taking {drug} and experiencing {ade}."
+997,PosSent,1,"I am happier than before taking {drug}, but I'm taking {drug} and experiencing {ade}."
+998,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, it is okay because {ade} is not strong."
+999,PosSent,1,"I'm taking {drug} and experiencing {ade}. Still, it is okay because {ade} is not strong."
+1000,PosSent,1,"I'm taking {drug} and experiencing {ade}. Yet, it is okay because {ade} is not strong."
+1001,PosSent,1,I'm taking {drug} and experiencing {ade}. It is okay because {ade} is not strong.
+1002,PosSent,1,"I'm taking {drug} and experiencing {ade}, but it is okay because {ade} is not strong."
+1003,PosSent,1,"I'm taking {drug} and experiencing {ade}, still it is okay because {ade} is not strong."
+1004,PosSent,1,"I'm taking {drug} and experiencing {ade}, yet it is okay because {ade} is not strong."
+1005,PosSent,1,"I'm taking {drug} and experiencing {ade}, it is okay because {ade} is not strong."
+1006,PosSent,1,It is okay because {ade} is not strong. Even though I'm taking {drug} and experiencing {ade}.
+1007,PosSent,1,It is okay because {ade} is not strong. Although I'm taking {drug} and experiencing {ade}.
+1008,PosSent,1,It is okay because {ade} is not strong. But I'm taking {drug} and experiencing {ade}.
+1009,PosSent,1,"It is okay because {ade} is not strong, even though I'm taking {drug} and experiencing {ade}."
+1010,PosSent,1,"It is okay because {ade} is not strong, although I'm taking {drug} and experiencing {ade}."
+1011,PosSent,1,"It is okay because {ade} is not strong, but I'm taking {drug} and experiencing {ade}."
+1012,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, it's okay because {ade} doesn't stop me from enjoying life."
+1013,PosSent,1,"I'm taking {drug} and experiencing {ade}. Still, it's okay because {ade} doesn't stop me from enjoying life."
+1014,PosSent,1,"I'm taking {drug} and experiencing {ade}. Yet, it's okay because {ade} doesn't stop me from enjoying life."
+1015,PosSent,1,I'm taking {drug} and experiencing {ade}. It's okay because {ade} doesn't stop me from enjoying life.
+1016,PosSent,1,"I'm taking {drug} and experiencing {ade}, but it's okay because {ade} doesn't stop me from enjoying life."
+1017,PosSent,1,"I'm taking {drug} and experiencing {ade}, still it's okay because {ade} doesn't stop me from enjoying life."
+1018,PosSent,1,"I'm taking {drug} and experiencing {ade}, yet it's okay because {ade} doesn't stop me from enjoying life."
+1019,PosSent,1,"I'm taking {drug} and experiencing {ade}, it's okay because {ade} doesn't stop me from enjoying life."
+1020,PosSent,1,It's okay because {ade} doesn't stop me from enjoying life. Even though I'm taking {drug} and experiencing {ade}.
+1021,PosSent,1,It's okay because {ade} doesn't stop me from enjoying life. Although I'm taking {drug} and experiencing {ade}.
+1022,PosSent,1,It's okay because {ade} doesn't stop me from enjoying life. But I'm taking {drug} and experiencing {ade}.
+1023,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life, even though I'm taking {drug} and experiencing {ade}."
+1024,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life, although I'm taking {drug} and experiencing {ade}."
+1025,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life, but I'm taking {drug} and experiencing {ade}."
+1026,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, it's okay because I can ignore {ade}."
+1027,PosSent,1,"I'm taking {drug} and experiencing {ade}. Still, it's okay because I can ignore {ade}."
+1028,PosSent,1,"I'm taking {drug} and experiencing {ade}. Yet, it's okay because I can ignore {ade}."
+1029,PosSent,1,I'm taking {drug} and experiencing {ade}. It's okay because I can ignore {ade}.
+1030,PosSent,1,"I'm taking {drug} and experiencing {ade}, but it's okay because I can ignore {ade}."
+1031,PosSent,1,"I'm taking {drug} and experiencing {ade}, still it's okay because I can ignore {ade}."
+1032,PosSent,1,"I'm taking {drug} and experiencing {ade}, yet it's okay because I can ignore {ade}."
+1033,PosSent,1,"I'm taking {drug} and experiencing {ade}, it's okay because I can ignore {ade}."
+1034,PosSent,1,It's okay because I can ignore {ade}. Even though I'm taking {drug} and experiencing {ade}.
+1035,PosSent,1,It's okay because I can ignore {ade}. Although I'm taking {drug} and experiencing {ade}.
+1036,PosSent,1,It's okay because I can ignore {ade}. But I'm taking {drug} and experiencing {ade}.
+1037,PosSent,1,"It's okay because I can ignore {ade}, even though I'm taking {drug} and experiencing {ade}."
+1038,PosSent,1,"It's okay because I can ignore {ade}, although I'm taking {drug} and experiencing {ade}."
+1039,PosSent,1,"It's okay because I can ignore {ade}, but I'm taking {drug} and experiencing {ade}."
+1040,PosSent,1,"I'm taking {drug} and experiencing {ade}. But, I like {drug} because {ade} is less severe now compared to my previous medication."
+1041,PosSent,1,"I'm taking {drug} and experiencing {ade}. Still, I like {drug} because {ade} is less severe now compared to my previous medication."
+1042,PosSent,1,"I'm taking {drug} and experiencing {ade}. Yet, I like {drug} because {ade} is less severe now compared to my previous medication."
+1043,PosSent,1,I'm taking {drug} and experiencing {ade}. I like {drug} because {ade} is less severe now compared to my previous medication.
+1044,PosSent,1,"I'm taking {drug} and experiencing {ade}, but I like {drug} because {ade} is less severe now compared to my previous medication."
+1045,PosSent,1,"I'm taking {drug} and experiencing {ade}, still I like {drug} because {ade} is less severe now compared to my previous medication."
+1046,PosSent,1,"I'm taking {drug} and experiencing {ade}, yet I like {drug} because {ade} is less severe now compared to my previous medication."
+1047,PosSent,1,"I'm taking {drug} and experiencing {ade}, I like {drug} because {ade} is less severe now compared to my previous medication."
+1048,PosSent,1,I like {drug} because {ade} is less severe now compared to my previous medication. Even though I'm taking {drug} and experiencing {ade}.
+1049,PosSent,1,I like {drug} because {ade} is less severe now compared to my previous medication. Although I'm taking {drug} and experiencing {ade}.
+1050,PosSent,1,I like {drug} because {ade} is less severe now compared to my previous medication. But I'm taking {drug} and experiencing {ade}.
+1051,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication, even though I'm taking {drug} and experiencing {ade}."
+1052,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication, although I'm taking {drug} and experiencing {ade}."
+1053,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication, but I'm taking {drug} and experiencing {ade}."
+1054,PosSent,1,"{drug} gives me {ade}. But, I am happy my symptoms have reduced."
+1055,PosSent,1,"{drug} gives me {ade}. Still, I am happy my symptoms have reduced."
+1056,PosSent,1,"{drug} gives me {ade}. Yet, I am happy my symptoms have reduced."
+1057,PosSent,1,{drug} gives me {ade}. I am happy my symptoms have reduced.
+1058,PosSent,1,"{drug} gives me {ade}, but I am happy my symptoms have reduced."
+1059,PosSent,1,"{drug} gives me {ade}, still I am happy my symptoms have reduced."
+1060,PosSent,1,"{drug} gives me {ade}, yet I am happy my symptoms have reduced."
+1061,PosSent,1,"{drug} gives me {ade}, I am happy my symptoms have reduced."
+1062,PosSent,1,I am happy my symptoms have reduced. Even though {drug} gives me {ade}.
+1063,PosSent,1,I am happy my symptoms have reduced. Although {drug} gives me {ade}.
+1064,PosSent,1,I am happy my symptoms have reduced. But {drug} gives me {ade}.
+1065,PosSent,1,"I am happy my symptoms have reduced, even though {drug} gives me {ade}."
+1066,PosSent,1,"I am happy my symptoms have reduced, although {drug} gives me {ade}."
+1067,PosSent,1,"I am happy my symptoms have reduced, but {drug} gives me {ade}."
+1068,PosSent,1,"{drug} gives me {ade}. But, I feel much better in general than without {drug}."
+1069,PosSent,1,"{drug} gives me {ade}. Still, I feel much better in general than without {drug}."
+1070,PosSent,1,"{drug} gives me {ade}. Yet, I feel much better in general than without {drug}."
+1071,PosSent,1,{drug} gives me {ade}. I feel much better in general than without {drug}.
+1072,PosSent,1,"{drug} gives me {ade}, but I feel much better in general than without {drug}."
+1073,PosSent,1,"{drug} gives me {ade}, still I feel much better in general than without {drug}."
+1074,PosSent,1,"{drug} gives me {ade}, yet I feel much better in general than without {drug}."
+1075,PosSent,1,"{drug} gives me {ade}, I feel much better in general than without {drug}."
+1076,PosSent,1,I feel much better in general than without {drug}. Even though {drug} gives me {ade}.
+1077,PosSent,1,I feel much better in general than without {drug}. Although {drug} gives me {ade}.
+1078,PosSent,1,I feel much better in general than without {drug}. But {drug} gives me {ade}.
+1079,PosSent,1,"I feel much better in general than without {drug}, even though {drug} gives me {ade}."
+1080,PosSent,1,"I feel much better in general than without {drug}, although {drug} gives me {ade}."
+1081,PosSent,1,"I feel much better in general than without {drug}, but {drug} gives me {ade}."
+1082,PosSent,1,"{drug} gives me {ade}. But, my quality of life has increased dramatically."
+1083,PosSent,1,"{drug} gives me {ade}. Still, my quality of life has increased dramatically."
+1084,PosSent,1,"{drug} gives me {ade}. Yet, my quality of life has increased dramatically."
+1085,PosSent,1,{drug} gives me {ade}. My quality of life has increased dramatically.
+1086,PosSent,1,"{drug} gives me {ade}, but my quality of life has increased dramatically."
+1087,PosSent,1,"{drug} gives me {ade}, still my quality of life has increased dramatically."
+1088,PosSent,1,"{drug} gives me {ade}, yet my quality of life has increased dramatically."
+1089,PosSent,1,"{drug} gives me {ade}, my quality of life has increased dramatically."
+1090,PosSent,1,My quality of life has increased dramatically. Even though {drug} gives me {ade}.
+1091,PosSent,1,My quality of life has increased dramatically. Although {drug} gives me {ade}.
+1092,PosSent,1,My quality of life has increased dramatically. But {drug} gives me {ade}.
+1093,PosSent,1,"My quality of life has increased dramatically, even though {drug} gives me {ade}."
+1094,PosSent,1,"My quality of life has increased dramatically, although {drug} gives me {ade}."
+1095,PosSent,1,"My quality of life has increased dramatically, but {drug} gives me {ade}."
+1096,PosSent,1,"{drug} gives me {ade}. But, I haven't felt this good in years."
+1097,PosSent,1,"{drug} gives me {ade}. Still, I haven't felt this good in years."
+1098,PosSent,1,"{drug} gives me {ade}. Yet, I haven't felt this good in years."
+1099,PosSent,1,{drug} gives me {ade}. I haven't felt this good in years.
+1100,PosSent,1,"{drug} gives me {ade}, but I haven't felt this good in years."
+1101,PosSent,1,"{drug} gives me {ade}, still I haven't felt this good in years."
+1102,PosSent,1,"{drug} gives me {ade}, yet I haven't felt this good in years."
+1103,PosSent,1,"{drug} gives me {ade}, I haven't felt this good in years."
+1104,PosSent,1,I haven't felt this good in years. Even though {drug} gives me {ade}.
+1105,PosSent,1,I haven't felt this good in years. Although {drug} gives me {ade}.
+1106,PosSent,1,I haven't felt this good in years. But {drug} gives me {ade}.
+1107,PosSent,1,"I haven't felt this good in years, even though {drug} gives me {ade}."
+1108,PosSent,1,"I haven't felt this good in years, although {drug} gives me {ade}."
+1109,PosSent,1,"I haven't felt this good in years, but {drug} gives me {ade}."
+1110,PosSent,1,"{drug} gives me {ade}. But, I am happier than before taking {drug}."
+1111,PosSent,1,"{drug} gives me {ade}. Still, I am happier than before taking {drug}."
+1112,PosSent,1,"{drug} gives me {ade}. Yet, I am happier than before taking {drug}."
+1113,PosSent,1,{drug} gives me {ade}. I am happier than before taking {drug}.
+1114,PosSent,1,"{drug} gives me {ade}, but I am happier than before taking {drug}."
+1115,PosSent,1,"{drug} gives me {ade}, still I am happier than before taking {drug}."
+1116,PosSent,1,"{drug} gives me {ade}, yet I am happier than before taking {drug}."
+1117,PosSent,1,"{drug} gives me {ade}, I am happier than before taking {drug}."
+1118,PosSent,1,I am happier than before taking {drug}. Even though {drug} gives me {ade}.
+1119,PosSent,1,I am happier than before taking {drug}. Although {drug} gives me {ade}.
+1120,PosSent,1,I am happier than before taking {drug}. But {drug} gives me {ade}.
+1121,PosSent,1,"I am happier than before taking {drug}, even though {drug} gives me {ade}."
+1122,PosSent,1,"I am happier than before taking {drug}, although {drug} gives me {ade}."
+1123,PosSent,1,"I am happier than before taking {drug}, but {drug} gives me {ade}."
+1124,PosSent,1,"{drug} gives me {ade}. But, it is okay because {ade} is not strong."
+1125,PosSent,1,"{drug} gives me {ade}. Still, it is okay because {ade} is not strong."
+1126,PosSent,1,"{drug} gives me {ade}. Yet, it is okay because {ade} is not strong."
+1127,PosSent,1,{drug} gives me {ade}. It is okay because {ade} is not strong.
+1128,PosSent,1,"{drug} gives me {ade}, but it is okay because {ade} is not strong."
+1129,PosSent,1,"{drug} gives me {ade}, still it is okay because {ade} is not strong."
+1130,PosSent,1,"{drug} gives me {ade}, yet it is okay because {ade} is not strong."
+1131,PosSent,1,"{drug} gives me {ade}, it is okay because {ade} is not strong."
+1132,PosSent,1,It is okay because {ade} is not strong. Even though {drug} gives me {ade}.
+1133,PosSent,1,It is okay because {ade} is not strong. Although {drug} gives me {ade}.
+1134,PosSent,1,It is okay because {ade} is not strong. But {drug} gives me {ade}.
+1135,PosSent,1,"It is okay because {ade} is not strong, even though {drug} gives me {ade}."
+1136,PosSent,1,"It is okay because {ade} is not strong, although {drug} gives me {ade}."
+1137,PosSent,1,"It is okay because {ade} is not strong, but {drug} gives me {ade}."
+1138,PosSent,1,"{drug} gives me {ade}. But, it's okay because {ade} doesn't stop me from enjoying life."
+1139,PosSent,1,"{drug} gives me {ade}. Still, it's okay because {ade} doesn't stop me from enjoying life."
+1140,PosSent,1,"{drug} gives me {ade}. Yet, it's okay because {ade} doesn't stop me from enjoying life."
+1141,PosSent,1,{drug} gives me {ade}. It's okay because {ade} doesn't stop me from enjoying life.
+1142,PosSent,1,"{drug} gives me {ade}, but it's okay because {ade} doesn't stop me from enjoying life."
+1143,PosSent,1,"{drug} gives me {ade}, still it's okay because {ade} doesn't stop me from enjoying life."
+1144,PosSent,1,"{drug} gives me {ade}, yet it's okay because {ade} doesn't stop me from enjoying life."
+1145,PosSent,1,"{drug} gives me {ade}, it's okay because {ade} doesn't stop me from enjoying life."
+1146,PosSent,1,It's okay because {ade} doesn't stop me from enjoying life. Even though {drug} gives me {ade}.
+1147,PosSent,1,It's okay because {ade} doesn't stop me from enjoying life. Although {drug} gives me {ade}.
+1148,PosSent,1,It's okay because {ade} doesn't stop me from enjoying life. But {drug} gives me {ade}.
+1149,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life, even though {drug} gives me {ade}."
+1150,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life, although {drug} gives me {ade}."
+1151,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life, but {drug} gives me {ade}."
+1152,PosSent,1,"{drug} gives me {ade}. But, it's okay because I can ignore {ade}."
+1153,PosSent,1,"{drug} gives me {ade}. Still, it's okay because I can ignore {ade}."
+1154,PosSent,1,"{drug} gives me {ade}. Yet, it's okay because I can ignore {ade}."
+1155,PosSent,1,{drug} gives me {ade}. It's okay because I can ignore {ade}.
+1156,PosSent,1,"{drug} gives me {ade}, but it's okay because I can ignore {ade}."
+1157,PosSent,1,"{drug} gives me {ade}, still it's okay because I can ignore {ade}."
+1158,PosSent,1,"{drug} gives me {ade}, yet it's okay because I can ignore {ade}."
+1159,PosSent,1,"{drug} gives me {ade}, it's okay because I can ignore {ade}."
+1160,PosSent,1,It's okay because I can ignore {ade}. Even though {drug} gives me {ade}.
+1161,PosSent,1,It's okay because I can ignore {ade}. Although {drug} gives me {ade}.
+1162,PosSent,1,It's okay because I can ignore {ade}. But {drug} gives me {ade}.
+1163,PosSent,1,"It's okay because I can ignore {ade}, even though {drug} gives me {ade}."
+1164,PosSent,1,"It's okay because I can ignore {ade}, although {drug} gives me {ade}."
+1165,PosSent,1,"It's okay because I can ignore {ade}, but {drug} gives me {ade}."
+1166,PosSent,1,"{drug} gives me {ade}. But, I like {drug} because {ade} is less severe now compared to my previous medication."
+1167,PosSent,1,"{drug} gives me {ade}. Still, I like {drug} because {ade} is less severe now compared to my previous medication."
+1168,PosSent,1,"{drug} gives me {ade}. Yet, I like {drug} because {ade} is less severe now compared to my previous medication."
+1169,PosSent,1,{drug} gives me {ade}. I like {drug} because {ade} is less severe now compared to my previous medication.
+1170,PosSent,1,"{drug} gives me {ade}, but I like {drug} because {ade} is less severe now compared to my previous medication."
+1171,PosSent,1,"{drug} gives me {ade}, still I like {drug} because {ade} is less severe now compared to my previous medication."
+1172,PosSent,1,"{drug} gives me {ade}, yet I like {drug} because {ade} is less severe now compared to my previous medication."
+1173,PosSent,1,"{drug} gives me {ade}, I like {drug} because {ade} is less severe now compared to my previous medication."
+1174,PosSent,1,I like {drug} because {ade} is less severe now compared to my previous medication. Even though {drug} gives me {ade}.
+1175,PosSent,1,I like {drug} because {ade} is less severe now compared to my previous medication. Although {drug} gives me {ade}.
+1176,PosSent,1,I like {drug} because {ade} is less severe now compared to my previous medication. But {drug} gives me {ade}.
+1177,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication, even though {drug} gives me {ade}."
+1178,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication, although {drug} gives me {ade}."
+1179,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication, but {drug} gives me {ade}."
+1180,PosSent,1,"I always have {ade} when I'm on {drug}. But, I am happy my symptoms have reduced."
+1181,PosSent,1,"I always have {ade} when I'm on {drug}. Still, I am happy my symptoms have reduced."
+1182,PosSent,1,"I always have {ade} when I'm on {drug}. Yet, I am happy my symptoms have reduced."
+1183,PosSent,1,I always have {ade} when I'm on {drug}. I am happy my symptoms have reduced.
+1184,PosSent,1,"I always have {ade} when I'm on {drug}, but I am happy my symptoms have reduced."
+1185,PosSent,1,"I always have {ade} when I'm on {drug}, still I am happy my symptoms have reduced."
+1186,PosSent,1,"I always have {ade} when I'm on {drug}, yet I am happy my symptoms have reduced."
+1187,PosSent,1,"I always have {ade} when I'm on {drug}, I am happy my symptoms have reduced."
+1188,PosSent,1,I am happy my symptoms have reduced. Even though I always have {ade} when I'm on {drug}.
+1189,PosSent,1,I am happy my symptoms have reduced. Although I always have {ade} when I'm on {drug}.
+1190,PosSent,1,I am happy my symptoms have reduced. But I always have {ade} when I'm on {drug}.
+1191,PosSent,1,"I am happy my symptoms have reduced, even though I always have {ade} when I'm on {drug}."
+1192,PosSent,1,"I am happy my symptoms have reduced, although I always have {ade} when I'm on {drug}."
+1193,PosSent,1,"I am happy my symptoms have reduced, but I always have {ade} when I'm on {drug}."
+1194,PosSent,1,"I always have {ade} when I'm on {drug}. But, I feel much better in general than without {drug}."
+1195,PosSent,1,"I always have {ade} when I'm on {drug}. Still, I feel much better in general than without {drug}."
+1196,PosSent,1,"I always have {ade} when I'm on {drug}. Yet, I feel much better in general than without {drug}."
+1197,PosSent,1,I always have {ade} when I'm on {drug}. I feel much better in general than without {drug}.
+1198,PosSent,1,"I always have {ade} when I'm on {drug}, but I feel much better in general than without {drug}."
+1199,PosSent,1,"I always have {ade} when I'm on {drug}, still I feel much better in general than without {drug}."
+1200,PosSent,1,"I always have {ade} when I'm on {drug}, yet I feel much better in general than without {drug}."
+1201,PosSent,1,"I always have {ade} when I'm on {drug}, I feel much better in general than without {drug}."
+1202,PosSent,1,I feel much better in general than without {drug}. Even though I always have {ade} when I'm on {drug}.
+1203,PosSent,1,I feel much better in general than without {drug}. Although I always have {ade} when I'm on {drug}.
+1204,PosSent,1,I feel much better in general than without {drug}. But I always have {ade} when I'm on {drug}.
+1205,PosSent,1,"I feel much better in general than without {drug}, even though I always have {ade} when I'm on {drug}."
+1206,PosSent,1,"I feel much better in general than without {drug}, although I always have {ade} when I'm on {drug}."
+1207,PosSent,1,"I feel much better in general than without {drug}, but I always have {ade} when I'm on {drug}."
+1208,PosSent,1,"I always have {ade} when I'm on {drug}. But, my quality of life has increased dramatically."
+1209,PosSent,1,"I always have {ade} when I'm on {drug}. Still, my quality of life has increased dramatically."
+1210,PosSent,1,"I always have {ade} when I'm on {drug}. Yet, my quality of life has increased dramatically."
+1211,PosSent,1,I always have {ade} when I'm on {drug}. My quality of life has increased dramatically.
+1212,PosSent,1,"I always have {ade} when I'm on {drug}, but my quality of life has increased dramatically."
+1213,PosSent,1,"I always have {ade} when I'm on {drug}, still my quality of life has increased dramatically."
+1214,PosSent,1,"I always have {ade} when I'm on {drug}, yet my quality of life has increased dramatically."
+1215,PosSent,1,"I always have {ade} when I'm on {drug}, my quality of life has increased dramatically."
+1216,PosSent,1,My quality of life has increased dramatically. Even though I always have {ade} when I'm on {drug}.
+1217,PosSent,1,My quality of life has increased dramatically. Although I always have {ade} when I'm on {drug}.
+1218,PosSent,1,My quality of life has increased dramatically. But I always have {ade} when I'm on {drug}.
+1219,PosSent,1,"My quality of life has increased dramatically, even though I always have {ade} when I'm on {drug}."
+1220,PosSent,1,"My quality of life has increased dramatically, although I always have {ade} when I'm on {drug}."
+1221,PosSent,1,"My quality of life has increased dramatically, but I always have {ade} when I'm on {drug}."
+1222,PosSent,1,"I always have {ade} when I'm on {drug}. But, I haven't felt this good in years."
+1223,PosSent,1,"I always have {ade} when I'm on {drug}. Still, I haven't felt this good in years."
+1224,PosSent,1,"I always have {ade} when I'm on {drug}. Yet, I haven't felt this good in years."
+1225,PosSent,1,I always have {ade} when I'm on {drug}. I haven't felt this good in years.
+1226,PosSent,1,"I always have {ade} when I'm on {drug}, but I haven't felt this good in years."
+1227,PosSent,1,"I always have {ade} when I'm on {drug}, still I haven't felt this good in years."
+1228,PosSent,1,"I always have {ade} when I'm on {drug}, yet I haven't felt this good in years."
+1229,PosSent,1,"I always have {ade} when I'm on {drug}, I haven't felt this good in years."
+1230,PosSent,1,I haven't felt this good in years. Even though I always have {ade} when I'm on {drug}.
+1231,PosSent,1,I haven't felt this good in years. Although I always have {ade} when I'm on {drug}.
+1232,PosSent,1,I haven't felt this good in years. But I always have {ade} when I'm on {drug}.
+1233,PosSent,1,"I haven't felt this good in years, even though I always have {ade} when I'm on {drug}."
+1234,PosSent,1,"I haven't felt this good in years, although I always have {ade} when I'm on {drug}."
+1235,PosSent,1,"I haven't felt this good in years, but I always have {ade} when I'm on {drug}."
+1236,PosSent,1,"I always have {ade} when I'm on {drug}. But, I am happier than before taking {drug}."
+1237,PosSent,1,"I always have {ade} when I'm on {drug}. Still, I am happier than before taking {drug}."
+1238,PosSent,1,"I always have {ade} when I'm on {drug}. Yet, I am happier than before taking {drug}."
+1239,PosSent,1,I always have {ade} when I'm on {drug}. I am happier than before taking {drug}.
+1240,PosSent,1,"I always have {ade} when I'm on {drug}, but I am happier than before taking {drug}."
+1241,PosSent,1,"I always have {ade} when I'm on {drug}, still I am happier than before taking {drug}."
+1242,PosSent,1,"I always have {ade} when I'm on {drug}, yet I am happier than before taking {drug}."
+1243,PosSent,1,"I always have {ade} when I'm on {drug}, I am happier than before taking {drug}."
+1244,PosSent,1,I am happier than before taking {drug}. Even though I always have {ade} when I'm on {drug}.
+1245,PosSent,1,I am happier than before taking {drug}. Although I always have {ade} when I'm on {drug}.
+1246,PosSent,1,I am happier than before taking {drug}. But I always have {ade} when I'm on {drug}.
+1247,PosSent,1,"I am happier than before taking {drug}, even though I always have {ade} when I'm on {drug}."
+1248,PosSent,1,"I am happier than before taking {drug}, although I always have {ade} when I'm on {drug}."
+1249,PosSent,1,"I am happier than before taking {drug}, but I always have {ade} when I'm on {drug}."
+1250,PosSent,1,"I always have {ade} when I'm on {drug}. But, it is okay because {ade} is not strong."
+1251,PosSent,1,"I always have {ade} when I'm on {drug}. Still, it is okay because {ade} is not strong."
+1252,PosSent,1,"I always have {ade} when I'm on {drug}. Yet, it is okay because {ade} is not strong."
+1253,PosSent,1,I always have {ade} when I'm on {drug}. It is okay because {ade} is not strong.
+1254,PosSent,1,"I always have {ade} when I'm on {drug}, but it is okay because {ade} is not strong."
+1255,PosSent,1,"I always have {ade} when I'm on {drug}, still it is okay because {ade} is not strong."
+1256,PosSent,1,"I always have {ade} when I'm on {drug}, yet it is okay because {ade} is not strong."
+1257,PosSent,1,"I always have {ade} when I'm on {drug}, it is okay because {ade} is not strong."
+1258,PosSent,1,It is okay because {ade} is not strong. Even though I always have {ade} when I'm on {drug}.
+1259,PosSent,1,It is okay because {ade} is not strong. Although I always have {ade} when I'm on {drug}.
+1260,PosSent,1,It is okay because {ade} is not strong. But I always have {ade} when I'm on {drug}.
+1261,PosSent,1,"It is okay because {ade} is not strong, even though I always have {ade} when I'm on {drug}."
+1262,PosSent,1,"It is okay because {ade} is not strong, although I always have {ade} when I'm on {drug}."
+1263,PosSent,1,"It is okay because {ade} is not strong, but I always have {ade} when I'm on {drug}."
+1264,PosSent,1,"I always have {ade} when I'm on {drug}. But, it's okay because {ade} doesn't stop me from enjoying life."
+1265,PosSent,1,"I always have {ade} when I'm on {drug}. Still, it's okay because {ade} doesn't stop me from enjoying life."
+1266,PosSent,1,"I always have {ade} when I'm on {drug}. Yet, it's okay because {ade} doesn't stop me from enjoying life."
+1267,PosSent,1,I always have {ade} when I'm on {drug}. It's okay because {ade} doesn't stop me from enjoying life.
+1268,PosSent,1,"I always have {ade} when I'm on {drug}, but it's okay because {ade} doesn't stop me from enjoying life."
+1269,PosSent,1,"I always have {ade} when I'm on {drug}, still it's okay because {ade} doesn't stop me from enjoying life."
+1270,PosSent,1,"I always have {ade} when I'm on {drug}, yet it's okay because {ade} doesn't stop me from enjoying life."
+1271,PosSent,1,"I always have {ade} when I'm on {drug}, it's okay because {ade} doesn't stop me from enjoying life."
+1272,PosSent,1,It's okay because {ade} doesn't stop me from enjoying life. Even though I always have {ade} when I'm on {drug}.
+1273,PosSent,1,It's okay because {ade} doesn't stop me from enjoying life. Although I always have {ade} when I'm on {drug}.
+1274,PosSent,1,It's okay because {ade} doesn't stop me from enjoying life. But I always have {ade} when I'm on {drug}.
+1275,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life, even though I always have {ade} when I'm on {drug}."
+1276,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life, although I always have {ade} when I'm on {drug}."
+1277,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life, but I always have {ade} when I'm on {drug}."
+1278,PosSent,1,"I always have {ade} when I'm on {drug}. But, it's okay because I can ignore {ade}."
+1279,PosSent,1,"I always have {ade} when I'm on {drug}. Still, it's okay because I can ignore {ade}."
+1280,PosSent,1,"I always have {ade} when I'm on {drug}. Yet, it's okay because I can ignore {ade}."
+1281,PosSent,1,I always have {ade} when I'm on {drug}. It's okay because I can ignore {ade}.
+1282,PosSent,1,"I always have {ade} when I'm on {drug}, but it's okay because I can ignore {ade}."
+1283,PosSent,1,"I always have {ade} when I'm on {drug}, still it's okay because I can ignore {ade}."
+1284,PosSent,1,"I always have {ade} when I'm on {drug}, yet it's okay because I can ignore {ade}."
+1285,PosSent,1,"I always have {ade} when I'm on {drug}, it's okay because I can ignore {ade}."
+1286,PosSent,1,It's okay because I can ignore {ade}. Even though I always have {ade} when I'm on {drug}.
+1287,PosSent,1,It's okay because I can ignore {ade}. Although I always have {ade} when I'm on {drug}.
+1288,PosSent,1,It's okay because I can ignore {ade}. But I always have {ade} when I'm on {drug}.
+1289,PosSent,1,"It's okay because I can ignore {ade}, even though I always have {ade} when I'm on {drug}."
+1290,PosSent,1,"It's okay because I can ignore {ade}, although I always have {ade} when I'm on {drug}."
+1291,PosSent,1,"It's okay because I can ignore {ade}, but I always have {ade} when I'm on {drug}."
+1292,PosSent,1,"I always have {ade} when I'm on {drug}. But, I like {drug} because {ade} is less severe now compared to my previous medication."
+1293,PosSent,1,"I always have {ade} when I'm on {drug}. Still, I like {drug} because {ade} is less severe now compared to my previous medication."
+1294,PosSent,1,"I always have {ade} when I'm on {drug}. Yet, I like {drug} because {ade} is less severe now compared to my previous medication."
+1295,PosSent,1,I always have {ade} when I'm on {drug}. I like {drug} because {ade} is less severe now compared to my previous medication.
+1296,PosSent,1,"I always have {ade} when I'm on {drug}, but I like {drug} because {ade} is less severe now compared to my previous medication."
+1297,PosSent,1,"I always have {ade} when I'm on {drug}, still I like {drug} because {ade} is less severe now compared to my previous medication."
+1298,PosSent,1,"I always have {ade} when I'm on {drug}, yet I like {drug} because {ade} is less severe now compared to my previous medication."
+1299,PosSent,1,"I always have {ade} when I'm on {drug}, I like {drug} because {ade} is less severe now compared to my previous medication."
+1300,PosSent,1,I like {drug} because {ade} is less severe now compared to my previous medication. Even though I always have {ade} when I'm on {drug}.
+1301,PosSent,1,I like {drug} because {ade} is less severe now compared to my previous medication. Although I always have {ade} when I'm on {drug}.
+1302,PosSent,1,I like {drug} because {ade} is less severe now compared to my previous medication. But I always have {ade} when I'm on {drug}.
+1303,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication, even though I always have {ade} when I'm on {drug}."
+1304,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication, although I always have {ade} when I'm on {drug}."
+1305,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication, but I always have {ade} when I'm on {drug}."
+1306,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, I am happy my symptoms have reduced."
+1307,PosSent,1,"For me, {ade} is a side-effect of {drug}. Still, I am happy my symptoms have reduced."
+1308,PosSent,1,"For me, {ade} is a side-effect of {drug}. Yet, I am happy my symptoms have reduced."
+1309,PosSent,1,"For me, {ade} is a side-effect of {drug}. I am happy my symptoms have reduced."
+1310,PosSent,1,"For me, {ade} is a side-effect of {drug}, but I am happy my symptoms have reduced."
+1311,PosSent,1,"For me, {ade} is a side-effect of {drug}, still I am happy my symptoms have reduced."
+1312,PosSent,1,"For me, {ade} is a side-effect of {drug}, yet I am happy my symptoms have reduced."
+1313,PosSent,1,"For me, {ade} is a side-effect of {drug}, I am happy my symptoms have reduced."
+1314,PosSent,1,"I am happy my symptoms have reduced. Even though for me, {ade} is a side-effect of {drug}."
+1315,PosSent,1,"I am happy my symptoms have reduced. Although for me, {ade} is a side-effect of {drug}."
+1316,PosSent,1,"I am happy my symptoms have reduced. But for me, {ade} is a side-effect of {drug}."
+1317,PosSent,1,"I am happy my symptoms have reduced, even though for me, {ade} is a side-effect of {drug}."
+1318,PosSent,1,"I am happy my symptoms have reduced, although for me, {ade} is a side-effect of {drug}."
+1319,PosSent,1,"I am happy my symptoms have reduced, but for me, {ade} is a side-effect of {drug}."
+1320,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, I feel much better in general than without {drug}."
+1321,PosSent,1,"For me, {ade} is a side-effect of {drug}. Still, I feel much better in general than without {drug}."
+1322,PosSent,1,"For me, {ade} is a side-effect of {drug}. Yet, I feel much better in general than without {drug}."
+1323,PosSent,1,"For me, {ade} is a side-effect of {drug}. I feel much better in general than without {drug}."
+1324,PosSent,1,"For me, {ade} is a side-effect of {drug}, but I feel much better in general than without {drug}."
+1325,PosSent,1,"For me, {ade} is a side-effect of {drug}, still I feel much better in general than without {drug}."
+1326,PosSent,1,"For me, {ade} is a side-effect of {drug}, yet I feel much better in general than without {drug}."
+1327,PosSent,1,"For me, {ade} is a side-effect of {drug}, I feel much better in general than without {drug}."
+1328,PosSent,1,"I feel much better in general than without {drug}. Even though for me, {ade} is a side-effect of {drug}."
+1329,PosSent,1,"I feel much better in general than without {drug}. Although for me, {ade} is a side-effect of {drug}."
+1330,PosSent,1,"I feel much better in general than without {drug}. But for me, {ade} is a side-effect of {drug}."
+1331,PosSent,1,"I feel much better in general than without {drug}, even though for me, {ade} is a side-effect of {drug}."
+1332,PosSent,1,"I feel much better in general than without {drug}, although for me, {ade} is a side-effect of {drug}."
+1333,PosSent,1,"I feel much better in general than without {drug}, but for me, {ade} is a side-effect of {drug}."
+1334,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, my quality of life has increased dramatically."
+1335,PosSent,1,"For me, {ade} is a side-effect of {drug}. Still, my quality of life has increased dramatically."
+1336,PosSent,1,"For me, {ade} is a side-effect of {drug}. Yet, my quality of life has increased dramatically."
+1337,PosSent,1,"For me, {ade} is a side-effect of {drug}. My quality of life has increased dramatically."
+1338,PosSent,1,"For me, {ade} is a side-effect of {drug}, but my quality of life has increased dramatically."
+1339,PosSent,1,"For me, {ade} is a side-effect of {drug}, still my quality of life has increased dramatically."
+1340,PosSent,1,"For me, {ade} is a side-effect of {drug}, yet my quality of life has increased dramatically."
+1341,PosSent,1,"For me, {ade} is a side-effect of {drug}, my quality of life has increased dramatically."
+1342,PosSent,1,"My quality of life has increased dramatically. Even though for me, {ade} is a side-effect of {drug}."
+1343,PosSent,1,"My quality of life has increased dramatically. Although for me, {ade} is a side-effect of {drug}."
+1344,PosSent,1,"My quality of life has increased dramatically. But for me, {ade} is a side-effect of {drug}."
+1345,PosSent,1,"My quality of life has increased dramatically, even though for me, {ade} is a side-effect of {drug}."
+1346,PosSent,1,"My quality of life has increased dramatically, although for me, {ade} is a side-effect of {drug}."
+1347,PosSent,1,"My quality of life has increased dramatically, but for me, {ade} is a side-effect of {drug}."
+1348,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, I haven't felt this good in years."
+1349,PosSent,1,"For me, {ade} is a side-effect of {drug}. Still, I haven't felt this good in years."
+1350,PosSent,1,"For me, {ade} is a side-effect of {drug}. Yet, I haven't felt this good in years."
+1351,PosSent,1,"For me, {ade} is a side-effect of {drug}. I haven't felt this good in years."
+1352,PosSent,1,"For me, {ade} is a side-effect of {drug}, but I haven't felt this good in years."
+1353,PosSent,1,"For me, {ade} is a side-effect of {drug}, still I haven't felt this good in years."
+1354,PosSent,1,"For me, {ade} is a side-effect of {drug}, yet I haven't felt this good in years."
+1355,PosSent,1,"For me, {ade} is a side-effect of {drug}, I haven't felt this good in years."
+1356,PosSent,1,"I haven't felt this good in years. Even though for me, {ade} is a side-effect of {drug}."
+1357,PosSent,1,"I haven't felt this good in years. Although for me, {ade} is a side-effect of {drug}."
+1358,PosSent,1,"I haven't felt this good in years. But for me, {ade} is a side-effect of {drug}."
+1359,PosSent,1,"I haven't felt this good in years, even though for me, {ade} is a side-effect of {drug}."
+1360,PosSent,1,"I haven't felt this good in years, although for me, {ade} is a side-effect of {drug}."
+1361,PosSent,1,"I haven't felt this good in years, but for me, {ade} is a side-effect of {drug}."
+1362,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, I am happier than before taking {drug}."
+1363,PosSent,1,"For me, {ade} is a side-effect of {drug}. Still, I am happier than before taking {drug}."
+1364,PosSent,1,"For me, {ade} is a side-effect of {drug}. Yet, I am happier than before taking {drug}."
+1365,PosSent,1,"For me, {ade} is a side-effect of {drug}. I am happier than before taking {drug}."
+1366,PosSent,1,"For me, {ade} is a side-effect of {drug}, but I am happier than before taking {drug}."
+1367,PosSent,1,"For me, {ade} is a side-effect of {drug}, still I am happier than before taking {drug}."
+1368,PosSent,1,"For me, {ade} is a side-effect of {drug}, yet I am happier than before taking {drug}."
+1369,PosSent,1,"For me, {ade} is a side-effect of {drug}, I am happier than before taking {drug}."
+1370,PosSent,1,"I am happier than before taking {drug}. Even though for me, {ade} is a side-effect of {drug}."
+1371,PosSent,1,"I am happier than before taking {drug}. Although for me, {ade} is a side-effect of {drug}."
+1372,PosSent,1,"I am happier than before taking {drug}. But for me, {ade} is a side-effect of {drug}."
+1373,PosSent,1,"I am happier than before taking {drug}, even though for me, {ade} is a side-effect of {drug}."
+1374,PosSent,1,"I am happier than before taking {drug}, although for me, {ade} is a side-effect of {drug}."
+1375,PosSent,1,"I am happier than before taking {drug}, but for me, {ade} is a side-effect of {drug}."
+1376,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, it is okay because {ade} is not strong."
+1377,PosSent,1,"For me, {ade} is a side-effect of {drug}. Still, it is okay because {ade} is not strong."
+1378,PosSent,1,"For me, {ade} is a side-effect of {drug}. Yet, it is okay because {ade} is not strong."
+1379,PosSent,1,"For me, {ade} is a side-effect of {drug}. It is okay because {ade} is not strong."
+1380,PosSent,1,"For me, {ade} is a side-effect of {drug}, but it is okay because {ade} is not strong."
+1381,PosSent,1,"For me, {ade} is a side-effect of {drug}, still it is okay because {ade} is not strong."
+1382,PosSent,1,"For me, {ade} is a side-effect of {drug}, yet it is okay because {ade} is not strong."
+1383,PosSent,1,"For me, {ade} is a side-effect of {drug}, it is okay because {ade} is not strong."
+1384,PosSent,1,"It is okay because {ade} is not strong. Even though for me, {ade} is a side-effect of {drug}."
+1385,PosSent,1,"It is okay because {ade} is not strong. Although for me, {ade} is a side-effect of {drug}."
+1386,PosSent,1,"It is okay because {ade} is not strong. But for me, {ade} is a side-effect of {drug}."
+1387,PosSent,1,"It is okay because {ade} is not strong, even though for me, {ade} is a side-effect of {drug}."
+1388,PosSent,1,"It is okay because {ade} is not strong, although for me, {ade} is a side-effect of {drug}."
+1389,PosSent,1,"It is okay because {ade} is not strong, but for me, {ade} is a side-effect of {drug}."
+1390,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, it's okay because {ade} doesn't stop me from enjoying life."
+1391,PosSent,1,"For me, {ade} is a side-effect of {drug}. Still, it's okay because {ade} doesn't stop me from enjoying life."
+1392,PosSent,1,"For me, {ade} is a side-effect of {drug}. Yet, it's okay because {ade} doesn't stop me from enjoying life."
+1393,PosSent,1,"For me, {ade} is a side-effect of {drug}. It's okay because {ade} doesn't stop me from enjoying life."
+1394,PosSent,1,"For me, {ade} is a side-effect of {drug}, but it's okay because {ade} doesn't stop me from enjoying life."
+1395,PosSent,1,"For me, {ade} is a side-effect of {drug}, still it's okay because {ade} doesn't stop me from enjoying life."
+1396,PosSent,1,"For me, {ade} is a side-effect of {drug}, yet it's okay because {ade} doesn't stop me from enjoying life."
+1397,PosSent,1,"For me, {ade} is a side-effect of {drug}, it's okay because {ade} doesn't stop me from enjoying life."
+1398,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life. Even though for me, {ade} is a side-effect of {drug}."
+1399,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life. Although for me, {ade} is a side-effect of {drug}."
+1400,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life. But for me, {ade} is a side-effect of {drug}."
+1401,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life, even though for me, {ade} is a side-effect of {drug}."
+1402,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life, although for me, {ade} is a side-effect of {drug}."
+1403,PosSent,1,"It's okay because {ade} doesn't stop me from enjoying life, but for me, {ade} is a side-effect of {drug}."
+1404,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, it's okay because I can ignore {ade}."
+1405,PosSent,1,"For me, {ade} is a side-effect of {drug}. Still, it's okay because I can ignore {ade}."
+1406,PosSent,1,"For me, {ade} is a side-effect of {drug}. Yet, it's okay because I can ignore {ade}."
+1407,PosSent,1,"For me, {ade} is a side-effect of {drug}. It's okay because I can ignore {ade}."
+1408,PosSent,1,"For me, {ade} is a side-effect of {drug}, but it's okay because I can ignore {ade}."
+1409,PosSent,1,"For me, {ade} is a side-effect of {drug}, still it's okay because I can ignore {ade}."
+1410,PosSent,1,"For me, {ade} is a side-effect of {drug}, yet it's okay because I can ignore {ade}."
+1411,PosSent,1,"For me, {ade} is a side-effect of {drug}, it's okay because I can ignore {ade}."
+1412,PosSent,1,"It's okay because I can ignore {ade}. Even though for me, {ade} is a side-effect of {drug}."
+1413,PosSent,1,"It's okay because I can ignore {ade}. Although for me, {ade} is a side-effect of {drug}."
+1414,PosSent,1,"It's okay because I can ignore {ade}. But for me, {ade} is a side-effect of {drug}."
+1415,PosSent,1,"It's okay because I can ignore {ade}, even though for me, {ade} is a side-effect of {drug}."
+1416,PosSent,1,"It's okay because I can ignore {ade}, although for me, {ade} is a side-effect of {drug}."
+1417,PosSent,1,"It's okay because I can ignore {ade}, but for me, {ade} is a side-effect of {drug}."
+1418,PosSent,1,"For me, {ade} is a side-effect of {drug}. But, I like {drug} because {ade} is less severe now compared to my previous medication."
+1419,PosSent,1,"For me, {ade} is a side-effect of {drug}. Still, I like {drug} because {ade} is less severe now compared to my previous medication."
+1420,PosSent,1,"For me, {ade} is a side-effect of {drug}. Yet, I like {drug} because {ade} is less severe now compared to my previous medication."
+1421,PosSent,1,"For me, {ade} is a side-effect of {drug}. I like {drug} because {ade} is less severe now compared to my previous medication."
+1422,PosSent,1,"For me, {ade} is a side-effect of {drug}, but I like {drug} because {ade} is less severe now compared to my previous medication."
+1423,PosSent,1,"For me, {ade} is a side-effect of {drug}, still I like {drug} because {ade} is less severe now compared to my previous medication."
+1424,PosSent,1,"For me, {ade} is a side-effect of {drug}, yet I like {drug} because {ade} is less severe now compared to my previous medication."
+1425,PosSent,1,"For me, {ade} is a side-effect of {drug}, I like {drug} because {ade} is less severe now compared to my previous medication."
+1426,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication. Even though for me, {ade} is a side-effect of {drug}."
+1427,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication. Although for me, {ade} is a side-effect of {drug}."
+1428,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication. But for me, {ade} is a side-effect of {drug}."
+1429,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication, even though for me, {ade} is a side-effect of {drug}."
+1430,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication, although for me, {ade} is a side-effect of {drug}."
+1431,PosSent,1,"I like {drug} because {ade} is less severe now compared to my previous medication, but for me, {ade} is a side-effect of {drug}."
+1432,Beneff,1,I'm taking {drug} and experiencing weight loss. It's a problem because I am already underweight.
+1433,Beneff,1,{drug} gives me weight loss. It's a problem because I am already underweight.
+1434,Beneff,1,I always have weight loss when I'm on {drug}. It's a problem because I am already underweight.
+1435,Beneff,1,"For me, weight loss is a side-effect of {drug}. It's a problem because I am already underweight."
+1436,Beneff,1,I'm taking {drug} and experiencing weight gain. It's a problem because I am already overweight.
+1437,Beneff,1,{drug} gives me weight gain. It's a problem because I am already overweight.
+1438,Beneff,1,I always have weight gain when I'm on {drug}. It's a problem because I am already overweight.
+1439,Beneff,1,"For me, weight gain is a side-effect of {drug}. It's a problem because I am already overweight."
+1440,Beneff,1,I'm taking {drug} and experiencing sleepiness. It's a problem because I have trouble staying awake during the day anyway.
+1441,Beneff,1,{drug} gives me sleepiness. It's a problem because I have trouble staying awake during the day anyway.
+1442,Beneff,1,I always have sleepiness when I'm on {drug}. It's a problem because I have trouble staying awake during the day anyway.
+1443,Beneff,1,"For me, sleepiness is a side-effect of {drug}. It's a problem because I have trouble staying awake during the day anyway."
+1444,Beneff,1,I'm taking {drug} and experiencing decreased need for sleep. It's a problem because I have trouble sleeping at night anyway.
+1445,Beneff,1,{drug} gives me decreased need for sleep. It's a problem because I have trouble sleeping at night anyway.
+1446,Beneff,1,I always have decreased need for sleep when I'm on {drug}. It's a problem because I have trouble sleeping at night anyway.
+1447,Beneff,1,"For me, decreased need for sleep is a side-effect of {drug}. It's a problem because I have trouble sleeping at night anyway."
+1448,Beneff,1,I'm taking {drug} and experiencing loss of appetite. It's a problem because I was suffering from loss of appetite before.
+1449,Beneff,1,{drug} gives me loss of appetite. It's a problem because I was suffering from loss of appetite before.
+1450,Beneff,1,I always have loss of appetite when I'm on {drug}. It's a problem because I was suffering from loss of appetite before.
+1451,Beneff,1,"For me, loss of appetite is a side-effect of {drug}. It's a problem because I was suffering from loss of appetite before."
+1452,Beneff,1,I'm taking {drug} and experiencing increased appetite. It's a problem because I was overeating before.
+1453,Beneff,1,{drug} gives me increased appetite. It's a problem because I was overeating before.
+1454,Beneff,1,I always have increased appetite when I'm on {drug}. It's a problem because I was overeating before.
+1455,Beneff,1,"For me, increased appetite is a side-effect of {drug}. It's a problem because I was overeating before."
+1456,Negation,1,"That's not true, I started taking {drug} and encountered {ade}."
+1457,Negation,1,"That's not true, I started taking {drug} and endured {ade}."
+1458,Negation,1,"That's not true, I started taking {drug} and experienced {ade}."
+1459,Negation,1,"That's not true, I started taking {drug} and had {ade}."
+1460,Negation,1,"That's not true, I started taking {drug} and lived through {ade}."
+1461,Negation,1,"That's not true, I started taking {drug} and suffered from {ade}."
+1462,Negation,1,"That's not true, I took {drug} and encountered {ade}."
+1463,Negation,1,"That's not true, I took {drug} and endured {ade}."
+1464,Negation,1,"That's not true, I took {drug} and experienced {ade}."
+1465,Negation,1,"That's not true, I took {drug} and had {ade}."
+1466,Negation,1,"That's not true, I took {drug} and lived through {ade}."
+1467,Negation,1,"That's not true, I took {drug} and suffered from {ade}."
+1468,Negation,1,"That's not true, I was medicated with {drug} and encountered {ade}."
+1469,Negation,1,"That's not true, I was medicated with {drug} and endured {ade}."
+1470,Negation,1,"That's not true, I was medicated with {drug} and experienced {ade}."
+1471,Negation,1,"That's not true, I was medicated with {drug} and had {ade}."
+1472,Negation,1,"That's not true, I was medicated with {drug} and lived through {ade}."
+1473,Negation,1,"That's not true, I was medicated with {drug} and suffered from {ade}."
+1474,Negation,1,"That's not true, I was on {drug} and encountered {ade}."
+1475,Negation,1,"That's not true, I was on {drug} and endured {ade}."
+1476,Negation,1,"That's not true, I was on {drug} and experienced {ade}."
+1477,Negation,1,"That's not true, I was on {drug} and had {ade}."
+1478,Negation,1,"That's not true, I was on {drug} and lived through {ade}."
+1479,Negation,1,"That's not true, I was on {drug} and suffered from {ade}."
+1480,Negation,1,"That's not true, I was put on {drug} and encountered {ade}."
+1481,Negation,1,"That's not true, I was put on {drug} and endured {ade}."
+1482,Negation,1,"That's not true, I was put on {drug} and experienced {ade}."
+1483,Negation,1,"That's not true, I was put on {drug} and had {ade}."
+1484,Negation,1,"That's not true, I was put on {drug} and lived through {ade}."
+1485,Negation,1,"That's not true, I was put on {drug} and suffered from {ade}."
+1486,Negation,1,"That's not true, I was treated with {drug} and encountered {ade}."
+1487,Negation,1,"That's not true, I was treated with {drug} and endured {ade}."
+1488,Negation,1,"That's not true, I was treated with {drug} and experienced {ade}."
+1489,Negation,1,"That's not true, I was treated with {drug} and had {ade}."
+1490,Negation,1,"That's not true, I was treated with {drug} and lived through {ade}."
+1491,Negation,1,"That's not true, I was treated with {drug} and suffered from {ade}."
+1492,Negation,1,I have never not encountered {ade} when I'm on {drug}.
+1493,Negation,1,I have never not endured {ade} when I'm on {drug}.
+1494,Negation,1,I have never not experienced {ade} when I'm on {drug}.
+1495,Negation,1,I have never not had {ade} when I'm on {drug}.
+1496,Negation,1,I have never not lived through {ade} when I'm on {drug}.
+1497,Negation,1,I have never not suffered from {ade} when I'm on {drug}.
+1498,Negation,1,"I don't like {drug}, it gives me {ade}."
+1499,Negation,1,"I don't like my doctor who gave me {drug}, now I'm encountering {ade}."
+1500,Negation,1,"I don't like my doctor who gave me {drug}, now I'm enduring {ade}."
+1501,Negation,1,"I don't like my doctor who gave me {drug}, now I'm experiencing {ade}."
+1502,Negation,1,"I don't like my doctor who gave me {drug}, now I'm having {ade}."
+1503,Negation,1,"I don't like my doctor who gave me {drug}, now I'm living through {ade}."
+1504,Negation,1,"I don't like my doctor who gave me {drug}, now I'm suffering from {ade}."

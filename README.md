@@ -1,14 +1,18 @@
-# Adaptation of CheckList for ADE Detection
+# Evaluating the Robustness of Adverse Drug Event Classification Models Using Templates
 
-This project adapts [CheckList](https://aclanthology.org/2020.acl-main.442/), a behavioural testing approach, to the task of Adverse Drug Effect (ADE) detection.
+This project adapts [CheckList](https://aclanthology.org/2020.acl-main.442/), a behavioral testing approach, to the task of Adverse Drug Effect (ADE) classification. The project was accepted as a paper for the 23rd BioNLP Workshop at ACL 2024.
 
-Create environment using python version 3.8.10
+All templates for ADE classification can found in `templates_all.csv` (and `templates_base.csv` for base templates only).
+
+## Preparation
+
+Create an environment and install relevant libraries.
 ```
 $ pip install -r requirements.txt
 ```
 Install `checklist` with `pip install checklist`.
 
-## Model Fine-tuning
+### Model Fine-tuning
 Set up the config file for fine-tuning by adapting the arguments in `model/setup_finetuner_config.py` and running the file. (Or directly adapt the arguments in `model/finetuner_config_bioredditbert.ini` instead.)
 
 Fine-tune by running
@@ -16,21 +20,25 @@ Fine-tune by running
 $ python finetune.py --configfile finetuner_config_bioredditbert.ini
 ```
 
-## CheckList Adaptation for ADE Detection
+### Extracting Entities
+Entities to fill the CheckList templates are extracted from the PsyTAR corpus. Follow the instructions in `entity_extraction/extract_entities.ipynb` to extract your own entities from PsyTar or different corpus.
+
+## Running Tests
 In folder `checklist_work/`:
 
-Run `checklist_tests.py` which uses a customized CheckList test suite (`checklist_customized.py`) that uses part of the original CheckList code. 
+Run `checklist_tests.py` for your Huggingface sequence classification model. A customized test suite (`checklist_customized.py`) is run, which uses part of the original CheckList code. 
 
 Run all tests:
 ```
 $ python checklist_tests.py \
+    -- model YOUR_MODEL_PATH \
     --temporal_order \
     --positive_sentiment \
     --beneficial_effect \
     --true_beneficial_effect_gold_label 0 \
     --negation
 ```
-The Positive Sentiment test will use a ADE fill-ins from a list of less severe ADEs. Deactivate this behaviour if needed:
+The Positive Sentiment test will use a ADE fill-ins from a list of less severe ADEs. Deactivate this behavior if needed:
 ```
 $ python checklist_tests.py \
     --positive_sentiment \
@@ -41,4 +49,15 @@ Inspect default values for sampling of templates and entities as well as other a
 $ python checklist_tests.py -h
 ```
 
-Entities to fill the CheckList templates are extracted from the PsyTAR corpus (`entity_extraction/extract_entities.ipynb`). Results are stored in `extraction_results/` and can be directly used for the checklist tests. 
+## Cite
+```bibtex
+ @misc{macphail2024evaluatingrobustnessadversedrug,
+      title={Evaluating the Robustness of Adverse Drug Event Classification Models Using Templates}, 
+      author={Dorothea MacPhail and David Harbecke and Lisa Raithel and Sebastian Möller},
+      year={2024},
+      eprint={2407.02432},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.02432} 
+}
+```
