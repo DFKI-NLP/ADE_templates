@@ -1,7 +1,8 @@
 # Evaluating the Robustness of Adverse Drug Event Classification Models Using Templates
 
-This project adapts [CheckList](https://aclanthology.org/2020.acl-main.442/), a behavioral testing approach, to the task of Adverse Drug Effect (ADE) classification. The project was accepted as a paper for the 23rd BioNLP Workshop at ACL 2024.
+![examples.png](examples.png)
 
+This project evaluates Adverse Drug Effect (ADE) classification models with test cases generated from templates (see examples above). 
 All templates for ADE classification can found in `templates_all.csv` (and `templates_base.csv` for base templates only).
 
 ## Preparation
@@ -10,7 +11,7 @@ Create an environment and install relevant libraries.
 ```
 $ pip install -r requirements.txt
 ```
-Install `checklist` with `pip install checklist`.
+Install `checklist` separately with `pip install checklist`.
 
 ### Model Fine-tuning
 Set up the config file for fine-tuning by adapting the arguments in `model/setup_finetuner_config.py` and running the file. (Or directly adapt the arguments in `model/finetuner_config_bioredditbert.ini` instead.)
