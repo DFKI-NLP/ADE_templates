@@ -14,11 +14,16 @@ $ pip install -r requirements.txt
 Install `checklist` separately with `pip install checklist`.
 
 ### Model Fine-tuning
-Set up the config file for fine-tuning by adapting the arguments in `model/setup_finetuner_config.py` and running the file. (Or directly adapt the arguments in `model/finetuner_config_bioredditbert.ini` instead.)
+Set up the config file for fine-tuning by adapting the arguments in `model/setup_finetuner_config.py` and running the file. (Or directly adapt the arguments in `model/brb.ini` or `model/xlm.ini` instead.)
 
-Fine-tune by running
+Fine-tune BioRedditBERT by running
 ```
-$ python finetune.py --configfile finetuner_config_bioredditbert.ini
+$ python finetune.py --configfile brb.ini
+```
+
+Fine-tune XLMRoBERTa by running
+```
+$ python finetune.py --configfile xlm.ini
 ```
 
 ### Extracting Entities
