@@ -27,7 +27,7 @@ $ python finetune.py --configfile xlm.ini
 ```
 
 ### Extracting Entities
-Entities to fill the CheckList templates are extracted from the PsyTAR corpus. Follow the instructions in `entity_extraction/extract_entities.ipynb` to extract your own entities from PsyTar or different corpus.
+Entities to fill the CheckList templates are extracted from the PsyTAR corpus. Save the PsyTAR corpus as `checklist_work/data/PsyTAR_dataset.xlsx`. Follow the instructions in `checklist_work/entity_extraction/extract_entities.ipynb` to extract your own entities from PsyTAR or a different corpus.
 
 ## Running Tests
 In folder `checklist_work/`:
